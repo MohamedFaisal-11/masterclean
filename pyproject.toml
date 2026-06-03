@@ -16,3 +16,5 @@ dependencies = [
   "typer",
   "rich"
 ]
+[project.scripts]
+masterclean = "masterclean.cli:main"
