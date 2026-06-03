@@ -2,4 +2,11 @@ venv/
 __pycache__/
 *.pyc
 .DS_Store
+
 cleaned_data.csv
+
+*.egg-info/
+build/
+dist/
+
+.env
