@@ -1,7 +1,14 @@
-from masterclean import read_file, clean_data, export_data
+from masterclean import (
+    read_file,
+    clean_data,
+    export_data,
+    optimize_dtypes
+)
 
 df = read_file("sample.csv")
 
-cleaned_df = clean_data(df)
+df = clean_data(df)
 
-export_data(cleaned_df)
+df = optimize_dtypes(df)
+
+export_data(df)
