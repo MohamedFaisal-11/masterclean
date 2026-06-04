@@ -15,6 +15,7 @@ dependencies = [
   "numpy",
   "typer",
   "chardet",
+  "pytest",
   "rich"
 ]
 [project.scripts]
