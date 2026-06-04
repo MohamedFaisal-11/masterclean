@@ -1,12 +1,9 @@
-import pandas as pd
-
-
 def validate_data(df):
 
     warnings = []
 
     # -----------------------------------
-    # Negative Value Detection
+    # Negative Values
     # -----------------------------------
 
     for col in df.select_dtypes(include=["int64", "float64", "Int64"]):
@@ -25,7 +22,7 @@ def validate_data(df):
             pass
 
     # -----------------------------------
-    # Outlier Detection (IQR Method)
+    # Outlier Detection
     # -----------------------------------
 
     for col in df.select_dtypes(include=["int64", "float64", "Int64"]):
@@ -55,7 +52,7 @@ def validate_data(df):
             pass
 
     # -----------------------------------
-    # Boolean Category Validation
+    # Boolean Validation
     # -----------------------------------
 
     valid_boolean_values = {
@@ -87,7 +84,7 @@ def validate_data(df):
             )
 
     # -----------------------------------
-    # Print Validation Results
+    # Display Warnings
     # -----------------------------------
 
     if warnings:
@@ -96,6 +93,7 @@ def validate_data(df):
         print("=" * 40)
 
         for warning in warnings:
+
             print(warning)
 
     else:

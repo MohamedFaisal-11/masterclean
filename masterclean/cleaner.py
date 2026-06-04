@@ -12,7 +12,9 @@ def clean_data(df):
         if df[col].dtype == "object":
 
             try:
+
                 mode_value = df[col].mode()[0]
+
                 df[col] = df[col].fillna(mode_value)
 
             except:
@@ -22,7 +24,9 @@ def clean_data(df):
         else:
 
             try:
+
                 median_value = df[col].median()
+
                 df[col] = df[col].fillna(median_value)
 
             except:

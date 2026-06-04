@@ -5,13 +5,14 @@ from masterclean.cleaner import clean_data
 
 def test_duplicate_removal():
 
-    data = {
+    df = pd.DataFrame({
+
         "name": ["Ali", "Ali"],
+
         "age": [25, 25]
-    }
 
-    df = pd.DataFrame(data)
+    })
 
-    cleaned_df = clean_data(df)
+    cleaned = clean_data(df)
 
-    assert len(cleaned_df) == 1
+    assert len(cleaned) == 1

@@ -1,5 +1,6 @@
 import pandas as pd
 
+
 def optimize_dtypes(df):
 
     df = df.copy()
@@ -13,9 +14,9 @@ def optimize_dtypes(df):
         # Process only object columns
         if df[col].dtype == "object":
 
-            # -----------------------------
+            # -----------------------------------
             # Intelligent Date Detection
-            # -----------------------------
+            # -----------------------------------
 
             date_keywords = ["date", "time", "year"]
 
@@ -33,17 +34,18 @@ def optimize_dtypes(df):
                         errors="coerce"
                     )
 
-                    # Accept if enough valid dates exist
                     if converted.notna().sum() > len(df) * 0.5:
+
                         df[col] = converted
+
                         continue
 
                 except:
                     pass
 
-            # -----------------------------
+            # -----------------------------------
             # Numeric Conversion
-            # -----------------------------
+            # -----------------------------------
 
             try:
 
@@ -52,19 +54,20 @@ def optimize_dtypes(df):
                     errors="coerce"
                 )
 
-                # Accept if enough valid numbers exist
                 if converted.notna().sum() > len(df) * 0.7:
+
                     df[col] = converted
 
             except:
                 pass
 
-    # Convert float columns with whole numbers into int
+    # Convert float columns into Int64 if possible
     for col in df.select_dtypes(include=['float']):
 
         try:
 
             if (df[col].dropna() % 1 == 0).all():
+
                 df[col] = df[col].astype("Int64")
 
         except:

@@ -52,7 +52,7 @@ def read_file(file_path):
             return df
 
         # -----------------------------------
-        # Unsupported File Type
+        # Unsupported Files
         # -----------------------------------
 
         else:

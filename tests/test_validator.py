@@ -3,13 +3,13 @@ import pandas as pd
 from masterclean.validator import validate_data
 
 
-def test_negative_value_detection():
+def test_negative_values():
 
-    data = {
-        "age": [25, -5]
-    }
+    df = pd.DataFrame({
 
-    df = pd.DataFrame(data)
+        "age": [-5, 10]
+
+    })
 
     warnings = validate_data(df)
 
