@@ -23,3 +23,6 @@ dependencies = [
 ]
 [project.scripts]
 masterclean = "masterclean.cli:main"
+[tool.setuptools.packages.find]
+
+include = ["masterclean*"]
