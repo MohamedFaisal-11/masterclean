@@ -11,3 +11,7 @@ build/
 dist/
 
 .env
+report.html
+charts/
+cleaned_data.csv
+*.html

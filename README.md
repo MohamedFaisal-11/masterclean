@@ -1,56 +1,170 @@
-# MasterClean
+# 🚀 MasterClean
 
-MasterClean is an automated CSV cleaning, preprocessing, and validation toolkit built with Python.
+![Python](https://img.shields.io/badge/python-3.10-blue)
 
-It helps users clean messy datasets with a single command-line instruction.
+![Tests](https://github.com/MohamedFaisal-11/masterclean/actions/workflows/tests.yml/badge.svg)
+
+![License](https://img.shields.io/badge/license-MIT-green)
+
+Automated Data Cleaning, Validation & Analytics Toolkit for Python.
+
+MasterClean is a professional Python package that automates dataset cleaning, preprocessing, validation, profiling, visualization, and reporting using a single command.
+
+It is designed for:
+
+* Data Analysts
+* Data Scientists
+* ML Engineers
+* Researchers
+* Students
+* Automation workflows
 
 ---
 
-# Features
+# ✨ Features
 
-* Automatic CSV cleaning
-* Missing value handling
-* Duplicate removal
+## Data Cleaning
+
+* Automatic missing value handling
+* Duplicate row removal
 * Column standardization
-* Datatype optimization
-* Automatic encoding detection
-* Validation engine
+* String cleanup
+* Encoding-aware file loading
+
+---
+
+## Datatype Optimization
+
+* Automatic numeric conversion
+* Datetime detection
+* Integer optimization
+* Mixed datatype handling
+
+---
+
+## Validation Engine
+
+* Negative value detection
 * Outlier detection
-* Report generation
+* Invalid boolean detection
+* Dataset quality warnings
+
+---
+
+## Analytics & Profiling
+
+* Automated dataset profiling
+* Numeric statistics
+* Categorical summaries
+* Memory usage analysis
+
+---
+
+## Visualization Engine
+
+* Interactive Plotly dashboards
+* Histograms
+* Pie charts
+* Boxplots
+* Distribution analysis
+* Category analytics
+
+---
+
+## Reporting
+
+* Unified HTML analytics dashboard
+* Validation summaries
+* Interactive charts
+* Automated report generation
+
+---
+
+## Developer Features
+
 * Command Line Interface (CLI)
 * Automated testing with pytest
+* GitHub Actions CI/CD pipeline
+* Modular package architecture
 
 ---
 
-# Installation
+# 📦 Installation
+
+## Clone Repository
 
 ```bash
-pip install masterclean
+git clone https://github.com/MohamedFaisal-11/masterclean.git
+```
+
+```bash
+cd masterclean
 ```
 
 ---
 
-# Usage
-
-## Command Line Usage
+## Create Virtual Environment
 
 ```bash
-masterclean data.csv
+python -m venv venv
+```
+
+---
+
+## Activate Environment
+
+### macOS / Linux
+
+```bash
+source venv/bin/activate
+```
+
+### Windows
+
+```bash
+venv\Scripts\activate
+```
+
+---
+
+## Install Package
+
+```bash
+pip install -e .
+```
+
+---
+
+# 🚀 CLI Usage
+
+## Clean Dataset
+
+```bash
+masterclean clean sample.csv
 ```
 
 MasterClean automatically:
 
-* Reads CSV files
+* Reads datasets
 * Cleans missing values
 * Removes duplicates
 * Optimizes datatypes
 * Detects validation issues
-* Generates reports
-* Exports cleaned datasets
+* Generates dashboards
+* Exports cleaned data
+* Creates HTML reports
 
 ---
 
-## Python Usage
+## Show Version
+
+```bash
+masterclean version
+```
+
+---
+
+# 🐍 Python Usage
 
 ```python
 from masterclean import (
@@ -58,6 +172,8 @@ from masterclean import (
     clean_data,
     optimize_dtypes,
     validate_data,
+    generate_profile,
+    generate_charts,
     generate_report,
     export_data
 )
@@ -68,65 +184,106 @@ df = clean_data(df)
 
 df = optimize_dtypes(df)
 
-validate_data(df)
+warnings = validate_data(df)
 
-generate_report(df)
+profile = generate_profile(df)
+
+charts = generate_charts(df)
+
+generate_report(
+    df=df,
+    warnings=warnings,
+    profile=profile,
+    charts=charts
+)
 
 export_data(df)
 ```
 
 ---
 
-# Example Validation Output
+# 📊 Example Validation Output
 
 ```text
 VALIDATION WARNINGS
 ========================================
 ⚠ Negative values found in 'age' (1 rows)
+
 ⚠ Possible outliers detected in 'salary' (1 rows)
+
 ⚠ Invalid boolean-like values found in 'active': {'maybe'}
 ```
 
 ---
 
-# Project Structure
+# 📈 Dashboard Features
+
+MasterClean generates a unified interactive HTML dashboard containing:
+
+* Dataset summaries
+* Validation warnings
+* Profiling statistics
+* Pie charts
+* Histograms
+* Boxplots
+* Category analytics
+* Interactive Plotly visualizations
+
+---
+
+# 🏗 Architecture
 
 ```text
-masterclean/
-├── cleaner.py
-├── validator.py
-├── datatypes.py
-├── report.py
-├── exporter.py
-├── reader.py
-├── cli.py
+Read
+   ↓
+Clean
+   ↓
+Optimize
+   ↓
+Validate
+   ↓
+Profile
+   ↓
+Visualize
+   ↓
+Report
+   ↓
+Export
 ```
 
 ---
 
-# Current Capabilities
+# 📂 Project Structure
 
-* CSV preprocessing
-* Data quality validation
-* Encoding-aware file loading
-* Automated reporting
-* CLI-based automation
+```text
+masterclean/
+│
+├── cleaner.py
+├── validator.py
+├── datatypes.py
+├── profiler.py
+├── visualizer.py
+├── report.py
+├── exporter.py
+├── reader.py
+├── cli.py
+│
+tests/
+│
+├── test_cleaner.py
+├── test_validator.py
+├── test_reader.py
+├── test_report.py
+├── test_visualizer.py
+│
+.github/workflows/
+│
+└── tests.yml
+```
 
 ---
 
-# Roadmap
-
-Future improvements planned:
-
-* Excel support
-* HTML reports
-* AI-powered cleaning suggestions
-* Advanced schema validation
-* Real-time dashboard integration
-
----
-
-# Testing
+# 🧪 Testing
 
 Run tests using:
 
@@ -134,11 +291,65 @@ Run tests using:
 python -m pytest
 ```
 
+Current Status:
+
+✅ Automated tests passing
+✅ GitHub Actions CI/CD passing
+
 ---
 
-# Author
+# 🔄 CI/CD
+
+MasterClean uses GitHub Actions for:
+
+* automated testing
+* dependency validation
+* continuous integration
+
+---
+
+# 🛣 Roadmap
+
+Future improvements planned:
+
+* Advanced schema validation
+* Large dataset optimization
+* Plugin architecture
+* AI-powered cleaning suggestions
+* Cloud deployment support
+* Streamlit dashboard integration
+
+---
+
+# Dashboard Preview
+
+![Dashboard](assets/dashboard.png)
+
+---
+
+
+# 🤝 Contributing
+
+Contributions are welcome.
+
+You can:
+
+* report bugs
+* suggest features
+* improve documentation
+* submit pull requests
+
+---
+
+# 📄 License
+
+MIT License
+
+---
+
+# 👨‍💻 Author
 
 Mohamed Faisal Maraicar N
 
 GitHub:
-https://github.com/MohamedFaisal-11
+https://github.com/MohamedFaisal-11/masterclean
