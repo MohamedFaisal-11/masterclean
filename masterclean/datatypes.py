@@ -6,40 +6,69 @@ def optimize_dtypes(df):
 
     for col in df.columns:
 
-        # Skip numeric columns
+        # Skip already numeric columns
         if pd.api.types.is_numeric_dtype(df[col]):
             continue
 
-        # Try converting only object/string columns
+        # Process only object columns
         if df[col].dtype == "object":
 
-            # Try datetime conversion safely
+            # -----------------------------
+            # Intelligent Date Detection
+            # -----------------------------
+
+            date_keywords = ["date", "time", "year"]
+
+            is_date_column = any(
+                keyword in col.lower()
+                for keyword in date_keywords
+            )
+
+            if is_date_column:
+
+                try:
+
+                    converted = pd.to_datetime(
+                        df[col],
+                        errors="coerce"
+                    )
+
+                    # Accept if enough valid dates exist
+                    if converted.notna().sum() > len(df) * 0.5:
+                        df[col] = converted
+                        continue
+
+                except:
+                    pass
+
+            # -----------------------------
+            # Numeric Conversion
+            # -----------------------------
+
             try:
 
-                converted = pd.to_datetime(
+                converted = pd.to_numeric(
                     df[col],
-                    errors="raise"
+                    errors="coerce"
                 )
 
-                # Accept conversion only if most values parsed
+                # Accept if enough valid numbers exist
                 if converted.notna().sum() > len(df) * 0.7:
                     df[col] = converted
-                    continue
 
             except:
                 pass
 
-        # Try numeric conversion
-        try:
-            df[col] = pd.to_numeric(df[col])
-        except:
-            pass
-
     # Convert float columns with whole numbers into int
     for col in df.select_dtypes(include=['float']):
 
-        if (df[col] % 1 == 0).all():
-            df[col] = df[col].astype(int)
+        try:
+
+            if (df[col].dropna() % 1 == 0).all():
+                df[col] = df[col].astype("Int64")
+
+        except:
+            pass
 
     print("✅ Datatypes optimized")
 

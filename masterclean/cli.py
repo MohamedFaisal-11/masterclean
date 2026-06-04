@@ -4,7 +4,9 @@ from masterclean import (
     read_file,
     clean_data,
     export_data,
-    optimize_dtypes
+    optimize_dtypes,
+    generate_report,
+    validate_data
 )
 
 app = typer.Typer()
@@ -17,6 +19,10 @@ def clean(file_path: str):
     df = clean_data(df)
 
     df = optimize_dtypes(df)
+
+    validate_data(df)
+
+    generate_report(df)
 
     export_data(df)
 

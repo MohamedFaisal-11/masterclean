@@ -1,6 +1,11 @@
-Name,Age,Salary
-Faisal,23,50000
-Ali,,45000
-Ali,,45000
-Sara,25,
-John,30,70000
+Customer Name,Age,Salary,Join Date,Department,Active
+ Faisal ,23,50000,2024-01-15,Data Science,TRUE
+Ali,,45000,15/02/2023,Analytics,TRUE
+Ali,,45000,15/02/2023,Analytics,TRUE
+Sara,25,,March 10 2022,HR,FALSE
+john,30,70000,2021/12/01,Engineering,TRUE
+Ayesha,-5,abc,not_available,Finance,YES
+Kumar,40,85000,2020-07-20,IT,
+Fatima,,92000,,Marketing,No
+Rahul,29,56000,2022-11-11,Data Science,TRUE
+Zara,1000,9999999,2035-01-01,Unknown,maybe
