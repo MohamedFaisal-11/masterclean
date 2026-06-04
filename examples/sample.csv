@@ -1,0 +1,6 @@
+customer_name,age,salary,join_date,department,active
+Faisal,23,50000,2024-01-15,Data Science,TRUE
+Ali,29,45000,15/02/2023,Analytics,TRUE
+Sara,25,45000,March 10 2022,HR,FALSE
+Ayesha,-5,,not_available,Finance,YES
+Zara,1000,9999999,2035-01-01,Unknown,maybe

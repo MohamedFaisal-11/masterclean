@@ -341,6 +341,28 @@ You can:
 
 ---
 
+# 📚 Examples
+
+Example files are available inside:
+
+```text
+examples/
+```
+
+Run CLI example:
+
+```bash
+masterclean clean examples/sample.csv
+```
+
+Run Python example:
+
+```bash
+python examples/python_example.py
+```
+---
+
+
 # 📄 License
 
 MIT License
