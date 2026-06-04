@@ -91,7 +91,17 @@ It is designed for:
 
 # 📦 Installation
 
-## Clone Repository
+## Install From PyPI
+
+```bash
+pip install masterclean
+```
+
+---
+
+## Development Installation
+
+### Clone Repository
 
 ```bash
 git clone https://github.com/MohamedFaisal-11/masterclean.git
@@ -103,7 +113,7 @@ cd masterclean
 
 ---
 
-## Create Virtual Environment
+### Create Virtual Environment
 
 ```bash
 python -m venv venv
@@ -111,15 +121,15 @@ python -m venv venv
 
 ---
 
-## Activate Environment
+### Activate Environment
 
-### macOS / Linux
+#### macOS / Linux
 
 ```bash
 source venv/bin/activate
 ```
 
-### Windows
+#### Windows
 
 ```bash
 venv\Scripts\activate
@@ -127,7 +137,7 @@ venv\Scripts\activate
 
 ---
 
-## Install Package
+### Install Package
 
 ```bash
 pip install -e .
@@ -164,6 +174,38 @@ masterclean version
 
 ---
 
+# 📁 Supported File Types
+
+Currently supported:
+
+* CSV (.csv)
+
+Upcoming support:
+
+* Excel (.xlsx)
+* JSON
+* Parquet
+
+---
+
+# 📂 Generated Outputs
+
+MasterClean automatically generates:
+
+```text
+cleaned_data.csv
+report.html
+```
+
+These files contain:
+
+* cleaned datasets
+* validation summaries
+* interactive analytics dashboards
+* profiling insights
+
+---
+
 # 🐍 Python Usage
 
 ```python
@@ -178,18 +220,25 @@ from masterclean import (
     export_data
 )
 
+# Read dataset
 df = read_file("sample.csv")
 
+# Clean dataset
 df = clean_data(df)
 
+# Optimize datatypes
 df = optimize_dtypes(df)
 
+# Validate dataset
 warnings = validate_data(df)
 
+# Generate profile
 profile = generate_profile(df)
 
+# Generate charts
 charts = generate_charts(df)
 
+# Generate report
 generate_report(
     df=df,
     warnings=warnings,
@@ -197,7 +246,32 @@ generate_report(
     charts=charts
 )
 
+# Export cleaned dataset
 export_data(df)
+
+print("MasterClean pipeline completed successfully")
+```
+
+---
+
+# 📚 Examples
+
+Example files are available inside:
+
+```text
+examples/
+```
+
+Run CLI example:
+
+```bash
+masterclean clean examples/sample.csv
+```
+
+Run Python example:
+
+```bash
+python examples/python_example.py
 ```
 
 ---
@@ -207,6 +281,7 @@ export_data(df)
 ```text
 VALIDATION WARNINGS
 ========================================
+
 ⚠ Negative values found in 'age' (1 rows)
 
 ⚠ Possible outliers detected in 'salary' (1 rows)
@@ -228,6 +303,12 @@ MasterClean generates a unified interactive HTML dashboard containing:
 * Boxplots
 * Category analytics
 * Interactive Plotly visualizations
+
+---
+
+# 🖼 Dashboard Preview
+
+![Dashboard](assets/dashboard.png)
 
 ---
 
@@ -268,6 +349,12 @@ masterclean/
 ├── reader.py
 ├── cli.py
 │
+examples/
+│
+├── sample.csv
+├── python_example.py
+├── cli_example.md
+│
 tests/
 │
 ├── test_cleaner.py
@@ -293,8 +380,8 @@ python -m pytest
 
 Current Status:
 
-✅ Automated tests passing
-✅ GitHub Actions CI/CD passing
+* ✅ Automated tests passing
+* ✅ GitHub Actions CI/CD passing
 
 ---
 
@@ -305,6 +392,14 @@ MasterClean uses GitHub Actions for:
 * automated testing
 * dependency validation
 * continuous integration
+
+---
+
+# 📌 Current Version
+
+```text
+v1.0.0
+```
 
 ---
 
@@ -321,13 +416,6 @@ Future improvements planned:
 
 ---
 
-# Dashboard Preview
-
-![Dashboard](assets/dashboard.png)
-
----
-
-
 # 🤝 Contributing
 
 Contributions are welcome.
@@ -341,28 +429,6 @@ You can:
 
 ---
 
-# 📚 Examples
-
-Example files are available inside:
-
-```text
-examples/
-```
-
-Run CLI example:
-
-```bash
-masterclean clean examples/sample.csv
-```
-
-Run Python example:
-
-```bash
-python examples/python_example.py
-```
----
-
-
 # 📄 License
 
 MIT License
@@ -374,4 +440,5 @@ MIT License
 Mohamed Faisal Maraicar N
 
 GitHub:
+
 https://github.com/MohamedFaisal-11/masterclean
