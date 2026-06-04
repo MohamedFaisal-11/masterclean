@@ -1,5 +1,6 @@
 import pandas as pd
 import chardet
+from pathlib import Path
 
 
 def detect_encoding(file_path):
@@ -10,29 +11,55 @@ def detect_encoding(file_path):
 
     result = chardet.detect(raw_data)
 
-    encoding = result["encoding"]
-
-    return encoding
+    return result["encoding"]
 
 
 def read_file(file_path):
 
     try:
 
-        # Detect encoding
-        encoding = detect_encoding(file_path)
+        file_extension = Path(file_path).suffix.lower()
 
-        print(f"📄 Detected Encoding: {encoding}")
+        # -----------------------------------
+        # CSV Support
+        # -----------------------------------
 
-        # Read CSV
-        df = pd.read_csv(
-            file_path,
-            encoding=encoding
-        )
+        if file_extension == ".csv":
 
-        print("✅ CSV loaded successfully")
+            encoding = detect_encoding(file_path)
 
-        return df
+            print(f"📄 Detected Encoding: {encoding}")
+
+            df = pd.read_csv(
+                file_path,
+                encoding=encoding
+            )
+
+            print("✅ CSV loaded successfully")
+
+            return df
+
+        # -----------------------------------
+        # Excel Support
+        # -----------------------------------
+
+        elif file_extension in [".xlsx", ".xls"]:
+
+            df = pd.read_excel(file_path)
+
+            print("✅ Excel file loaded successfully")
+
+            return df
+
+        # -----------------------------------
+        # Unsupported File Type
+        # -----------------------------------
+
+        else:
+
+            raise ValueError(
+                "Unsupported file format. Use CSV or Excel files."
+            )
 
     except Exception as e:
 
