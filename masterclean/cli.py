@@ -120,7 +120,7 @@ def version():
     Show current MasterClean version.
     """
 
-    print("MasterClean v1.0.0")
+    print("MasterClean v1.1.0")
 
 
 def main():

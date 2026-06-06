@@ -58,8 +58,17 @@ def read_file(file_path):
         else:
 
             raise ValueError(
-                "Unsupported file format. Use CSV or Excel files."
+                f"Unsupported file format: {file_extension}\n"
+                "Supported formats: .csv, .xlsx, .xls"
             )
+
+    except FileNotFoundError:
+
+        print("❌ File not found")
+
+    except pd.errors.EmptyDataError:
+
+        print("❌ File is empty")
 
     except Exception as e:
 

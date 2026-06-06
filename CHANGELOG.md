@@ -4,6 +4,25 @@ All notable changes to MasterClean will be documented in this file.
 
 ---
 
+# v1.1.0
+
+Release Date: June 2026
+
+## Added
+
+* Excel (.xlsx) support
+* Excel (.xls) support
+* Multi-format dataset loading
+* Excel dataset preprocessing support
+
+## Improved
+
+* File loading system
+* Error handling for unsupported files
+* Dataset ingestion workflow
+
+---
+
 # v1.0.1
 
 Release Date: June 2026
