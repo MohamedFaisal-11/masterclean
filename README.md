@@ -1,5 +1,7 @@
 # 🚀 MasterClean
 
+![PyPI](https://img.shields.io/pypi/v/masterclean)
+
 ![Python](https://img.shields.io/badge/python-3.10-blue)
 
 ![Tests](https://github.com/MohamedFaisal-11/masterclean/actions/workflows/tests.yml/badge.svg)
