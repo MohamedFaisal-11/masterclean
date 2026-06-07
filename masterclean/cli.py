@@ -394,7 +394,7 @@ def version():
     Show MasterClean version.
     """
 
-    print("🚀 MasterClean v2.0.0-dev")
+    print("🚀 MasterClean v2.0.1-dev")
 
 
 # =========================================================

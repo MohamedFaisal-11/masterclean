@@ -219,37 +219,111 @@ pip install --upgrade masterclean
 ```python
 from masterclean import *
 
-df, file_extension = read_file("data.csv")
+# =====================================================
+# READ DATASET
+# =====================================================
+
+df, file_extension = read_file(
+
+    "data.csv"
+
+)
+
+# =====================================================
+# CLEAN DATA
+# =====================================================
 
 df = clean_data(df)
 
+# =====================================================
+# OPTIMIZE DATATYPES
+# =====================================================
+
 df = optimize_dtypes(df)
+
+# =====================================================
+# VALIDATE DATA
+# =====================================================
 
 warnings = validate_data(df)
 
+# =====================================================
+# GENERATE PROFILE
+# =====================================================
+
 profile = generate_profile(df)
+
+# =====================================================
+# GENERATE VISUALIZATIONS
+# =====================================================
 
 charts = generate_charts(df)
 
+# =====================================================
+# AI INSIGHTS
+# =====================================================
+
 ai_insights = generate_ai_insights(df)
+
+# =====================================================
+# ANOMALY DETECTION
+# =====================================================
 
 anomalies = detect_anomalies(df)
 
+# =====================================================
+# ANOMALY VISUALIZATION
+# =====================================================
+
+anomaly_chart = generate_anomaly_chart(df)
+
+if anomaly_chart:
+
+    charts.append(anomaly_chart)
+
+# =====================================================
+# GENERATE ENTERPRISE DASHBOARD
+# =====================================================
+
 generate_report(
+
     df=df,
+
     warnings=warnings,
+
     profile=profile,
+
     charts=charts,
+
     ai_insights=ai_insights,
-    anomalies=anomalies
+
+    anomalies=anomalies,
+
+    output_file="report.html"
+
 )
 
+# =====================================================
+# EXPORT CLEANED DATA
+# =====================================================
+
 export_data(
+
     df,
+
     "cleaned_data",
+
     file_extension
+
+)
+
+print(
+
+    "🚀 MasterClean pipeline completed successfully"
+
 )
 ```
+
 
 ---
 
@@ -337,37 +411,6 @@ Export
 
 ---
 
-# 📸 Dashboard Screenshots
-
-## AI Dashboard
-
-Add screenshot here:
-
-```text
-screenshots/dashboard.png
-```
-
----
-
-## Anomaly Detection
-
-Add screenshot here:
-
-```text
-screenshots/anomalies.png
-```
-
----
-
-## Interactive Charts
-
-Add screenshot here:
-
-```text
-screenshots/charts.png
-```
-
----
 
 # 📁 Project Structure
 

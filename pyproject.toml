@@ -10,7 +10,7 @@ build-backend = "setuptools.build_meta"
 
 name = "masterclean"
 
-version = "2.0.0"
+version = "2.0.1"
 
 description = "Enterprise AI-powered data cleaning, validation, anomaly detection, and analytics toolkit"
 

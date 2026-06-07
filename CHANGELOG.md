@@ -6,6 +6,19 @@ The format is inspired by Keep a Changelog and Semantic Versioning.
 
 ---
 
+# 🚀 v2.0.1
+
+Release Date: June 2026
+
+## 🛠 Fixed
+
+- Cleaned PyPI README formatting
+- Removed placeholder screenshot sections
+- Improved package metadata
+- Minor documentation improvements
+
+---
+
 # 🚀 v2.0.0
 
 Release Date: June 2026
