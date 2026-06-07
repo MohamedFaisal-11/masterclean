@@ -1,4 +1,4 @@
-from masterclean.reader import read_file
+from masterclean.utils.reader import read_file
 
 
 def test_excel_reader():

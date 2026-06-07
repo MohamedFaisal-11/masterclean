@@ -2,173 +2,193 @@
 
 ![PyPI](https://img.shields.io/pypi/v/masterclean)
 
-![Python](https://img.shields.io/badge/python-3.10-blue)
-
-![Tests](https://github.com/MohamedFaisal-11/masterclean/actions/workflows/tests.yml/badge.svg)
+![Python](https://img.shields.io/badge/python-3.10+-blue)
 
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-Automated Data Cleaning, Validation & Analytics Toolkit for Python.
+Enterprise AI-powered Data Cleaning, Validation, Anomaly Detection & Analytics Toolkit for Python.
 
-MasterClean is a professional Python package that automates dataset cleaning, preprocessing, validation, profiling, visualization, and reporting using a single command.
+MasterClean automates:
 
-It is designed for:
+- data cleaning
+- preprocessing
+- validation
+- profiling
+- anomaly detection
+- AI insights
+- visualization
+- reporting
+- analytics
 
-* Data Analysts
-* Data Scientists
-* ML Engineers
-* Researchers
-* Students
-* Automation workflows
+using powerful CLI commands and Python APIs.
+
+Designed for:
+
+- Data Analysts
+- Data Scientists
+- ML Engineers
+- Researchers
+- Students
+- Automation Workflows
 
 ---
 
 # ✨ Features
 
-## Data Cleaning
+# 🧹 Advanced Data Cleaning
 
-* Automatic missing value handling
-* Duplicate row removal
-* Column standardization
-* String cleanup
-* Encoding-aware file loading
-
----
-
-## Datatype Optimization
-
-* Automatic numeric conversion
-* Datetime detection
-* Integer optimization
-* Mixed datatype handling
+- Missing value handling
+- Duplicate row removal
+- Empty string cleanup
+- Whitespace cleanup
+- Column standardization
+- Datetime conversion
+- Smart categorical filling
+- Automatic preprocessing pipeline
 
 ---
 
-## Validation Engine
+# ⚡ Datatype Optimization
 
-* Negative value detection
-* Outlier detection
-* Invalid boolean detection
-* Dataset quality warnings
-
----
-
-## Analytics & Profiling
-
-* Automated dataset profiling
-* Numeric statistics
-* Categorical summaries
-* Memory usage analysis
+- Integer optimization
+- Float optimization
+- Boolean conversion
+- Category optimization
+- Datetime detection
+- Memory usage reduction
 
 ---
 
-## Visualization Engine
+# 🛡 Advanced Validation Engine
 
-* Interactive Plotly dashboards
-* Histograms
-* Pie charts
-* Boxplots
-* Distribution analysis
-* Category analytics
-
----
-
-## Reporting
-
-* Unified HTML analytics dashboard
-* Validation summaries
-* Interactive charts
-* Automated report generation
+- Negative value detection
+- Invalid boolean detection
+- Email validation
+- Phone validation
+- Duplicate percentage warnings
+- Missing value percentage analysis
+- Mixed datatype detection
 
 ---
 
-## Developer Features
+# 🚨 AI-Powered Anomaly Detection
 
-* Command Line Interface (CLI)
-* Automated testing with pytest
-* GitHub Actions CI/CD pipeline
-* Modular package architecture
+- Z-score anomaly detection
+- Salary anomaly detection
+- Sales spike detection
+- Demographic anomaly detection
+- Interactive anomaly visualization
+- Enterprise anomaly summaries
 
 ---
 
-# 📦 Installation
+# 🧠 AI Insights Engine
 
-## Install From PyPI
+- Dataset risk scoring
+- Dataset quality grading
+- Cardinality detection
+- Identifier column detection
+- Correlation intelligence
+- ML readiness recommendations
+- Automated contextual suggestions
+
+---
+
+# 📊 Advanced Profiling
+
+- Dataset health score
+- Missing value summaries
+- Datatype analytics
+- Memory usage analysis
+- Numeric statistics
+- Categorical summaries
+- Dataset overview metrics
+
+---
+
+# 📈 Interactive Visualization Engine
+
+- Plotly dashboards
+- Histograms
+- Boxplots
+- Pie charts
+- Correlation heatmaps
+- Missing value charts
+- Line charts
+- Interactive anomaly scatter plots
+
+---
+
+# 📄 Reporting System
+
+- Unified HTML analytics dashboard
+- Validation summaries
+- AI insight cards
+- Risk overview cards
+- Interactive visualizations
+- Automated report generation
+
+---
+
+# 🖥 Professional CLI Toolkit
+
+MasterClean supports multiple enterprise commands.
+
+---
+
+# 🚀 Full Automated Pipeline
 
 ```bash
-pip install masterclean
+masterclean clean data.csv
+````
+
+Runs:
+
+* cleaning
+* optimization
+* anomaly detection
+* validation
+* profiling
+* visualization
+* AI analysis
+* reporting
+* exporting
+
+---
+
+# 🛡 Validation Only
+
+```bash
+masterclean validate data.csv
 ```
 
 ---
 
-## Development Installation
-
-### Clone Repository
+# 📊 Dataset Profiling
 
 ```bash
-git clone https://github.com/MohamedFaisal-11/masterclean.git
-```
-
-```bash
-cd masterclean
+masterclean profile data.csv
 ```
 
 ---
 
-### Create Virtual Environment
+# 📈 Dashboard Generation
 
 ```bash
-python -m venv venv
+masterclean dashboard data.csv
 ```
 
 ---
 
-### Activate Environment
-
-#### macOS / Linux
+# 🚨 Anomaly Detection
 
 ```bash
-source venv/bin/activate
-```
-
-#### Windows
-
-```bash
-venv\Scripts\activate
+masterclean anomaly data.csv
 ```
 
 ---
 
-### Install Package
-
-```bash
-pip install -e .
-```
-
----
-
-# 🚀 CLI Usage
-
-## Clean Dataset
-
-```bash
-masterclean clean sample.csv
-```
-
-MasterClean automatically:
-
-* Reads datasets
-* Cleans missing values
-* Removes duplicates
-* Optimizes datatypes
-* Detects validation issues
-* Generates dashboards
-* Exports cleaned data
-* Creates HTML reports
-
----
-
-## Show Version
+# 🔖 Show Version
 
 ```bash
 masterclean version
@@ -176,105 +196,82 @@ masterclean version
 
 ---
 
-# 📁 Supported File Types
+# 📦 Installation
 
-Currently supported:
+## Install from PyPI
 
-* CSV (.csv)
-
-Upcoming support:
-
-* Excel (.xlsx)
-* JSON
-* Parquet
+```bash
+pip install masterclean
+```
 
 ---
 
-# 📂 Generated Outputs
+# ⬆ Upgrade to Latest Version
 
-MasterClean automatically generates:
-
-```text
-cleaned_data.csv
-report.html
+```bash
+pip install --upgrade masterclean
 ```
-
-These files contain:
-
-* cleaned datasets
-* validation summaries
-* interactive analytics dashboards
-* profiling insights
 
 ---
 
 # 🐍 Python Usage
 
 ```python
-from masterclean import (
-    read_file,
-    clean_data,
-    optimize_dtypes,
-    validate_data,
-    generate_profile,
-    generate_charts,
-    generate_report,
-    export_data
-)
+from masterclean import *
 
-# Read dataset
-df = read_file("sample.csv")
+df, file_extension = read_file("data.csv")
 
-# Clean dataset
 df = clean_data(df)
 
-# Optimize datatypes
 df = optimize_dtypes(df)
 
-# Validate dataset
 warnings = validate_data(df)
 
-# Generate profile
 profile = generate_profile(df)
 
-# Generate charts
 charts = generate_charts(df)
 
-# Generate report
+ai_insights = generate_ai_insights(df)
+
+anomalies = detect_anomalies(df)
+
 generate_report(
     df=df,
     warnings=warnings,
     profile=profile,
-    charts=charts
+    charts=charts,
+    ai_insights=ai_insights,
+    anomalies=anomalies
 )
 
-# Export cleaned dataset
-export_data(df)
-
-print("MasterClean pipeline completed successfully")
+export_data(
+    df,
+    "cleaned_data",
+    file_extension
+)
 ```
 
 ---
 
-# 📚 Examples
+# 📂 Supported File Formats
 
-Example files are available inside:
+| Format | Supported |
+| ------ | --------- |
+| CSV    | ✅         |
+| XLSX   | ✅         |
+| XLS    | ✅         |
 
-```text
-examples/
-```
+---
 
-Run CLI example:
+# 🔄 Same-Format Export System
 
-```bash
-masterclean clean examples/sample.csv
-```
+MasterClean automatically preserves output format.
 
-Run Python example:
-
-```bash
-python examples/python_example.py
-```
+| Input | Output            |
+| ----- | ----------------- |
+| CSV   | cleaned_data.csv  |
+| XLSX  | cleaned_data.xlsx |
+| XLS   | cleaned_data.xlsx |
 
 ---
 
@@ -284,37 +281,37 @@ python examples/python_example.py
 VALIDATION WARNINGS
 ========================================
 
-⚠ Negative values found in 'age' (1 rows)
+⚠ Negative values found in 'salary' (3 rows)
 
-⚠ Possible outliers detected in 'salary' (1 rows)
+⚠ Invalid email values found in 'email' (5 rows)
 
-⚠ Invalid boolean-like values found in 'active': {'maybe'}
+⚠ High duplicate rows detected (14.2%)
+
+⚠ Mixed datatypes detected in 'age'
 ```
 
 ---
 
-# 📈 Dashboard Features
+# 🚨 Example Anomaly Output
 
-MasterClean generates a unified interactive HTML dashboard containing:
+```text
+ANOMALY DETECTION
+========================================
 
-* Dataset summaries
-* Validation warnings
-* Profiling statistics
-* Pie charts
-* Histograms
-* Boxplots
-* Category analytics
-* Interactive Plotly visualizations
+🧠 Anomaly Summary:
+3 anomalies in 'salary',
+2 anomalies in 'sales'.
 
----
+🚨 'salary' contains 3 anomalies.
+💡 Possible payroll anomaly detected.
 
-# 🖼 Dashboard Preview
-
-![Dashboard](assets/dashboard.png)
+🚨 'sales' contains 2 anomalies.
+💡 Abnormal sales spike detected.
+```
 
 ---
 
-# 🏗 Architecture
+# 🏗 Enterprise Architecture
 
 ```text
 Read
@@ -323,51 +320,75 @@ Clean
    ↓
 Optimize
    ↓
+Detect Anomalies
+   ↓
 Validate
    ↓
 Profile
    ↓
+Generate AI Insights
+   ↓
 Visualize
    ↓
-Report
+Generate Dashboard
    ↓
 Export
 ```
 
 ---
 
-# 📂 Project Structure
+# 📸 Dashboard Screenshots
+
+## AI Dashboard
+
+Add screenshot here:
+
+```text
+screenshots/dashboard.png
+```
+
+---
+
+## Anomaly Detection
+
+Add screenshot here:
+
+```text
+screenshots/anomalies.png
+```
+
+---
+
+## Interactive Charts
+
+Add screenshot here:
+
+```text
+screenshots/charts.png
+```
+
+---
+
+# 📁 Project Structure
 
 ```text
 masterclean/
 │
-├── cleaner.py
-├── validator.py
-├── datatypes.py
-├── profiler.py
-├── visualizer.py
-├── report.py
-├── exporter.py
-├── reader.py
+├── preprocessing/
+├── validation/
+├── profiling/
+├── visualization/
+├── ml/
+├── reports/
 ├── cli.py
-│
-examples/
-│
-├── sample.csv
-├── python_example.py
-├── cli_example.md
+├── __init__.py
 │
 tests/
 │
-├── test_cleaner.py
-├── test_validator.py
-├── test_reader.py
-├── test_report.py
-├── test_visualizer.py
-│
-.github/workflows/
-│
-└── tests.yml
+README.md
+pyproject.toml
+requirements.txt
+LICENSE
 ```
 
 ---
@@ -379,11 +400,6 @@ Run tests using:
 ```bash
 python -m pytest
 ```
-
-Current Status:
-
-* ✅ Automated tests passing
-* ✅ GitHub Actions CI/CD passing
 
 ---
 
@@ -397,24 +413,18 @@ MasterClean uses GitHub Actions for:
 
 ---
 
-# 📌 Current Version
-
-```text
-v1.0.0
-```
-
----
-
 # 🛣 Roadmap
 
 Future improvements planned:
 
-* Advanced schema validation
+* Streamlit dashboard
+* FastAPI integration
+* AutoML recommendations
+* Schema validation engine
 * Large dataset optimization
-* Plugin architecture
-* AI-powered cleaning suggestions
 * Cloud deployment support
-* Streamlit dashboard integration
+* Plugin architecture
+* Real-time analytics dashboards
 
 ---
 
@@ -444,3 +454,4 @@ Mohamed Faisal Maraicar N
 GitHub:
 
 https://github.com/MohamedFaisal-11/masterclean
+

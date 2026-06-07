@@ -2,54 +2,112 @@
 requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
+# =========================================================
+# PROJECT METADATA
+# =========================================================
+
 [project]
+
 name = "masterclean"
-version = "1.1.0"
-description = "Automated Data Cleaning, Validation and Analytics Toolkit"
+
+version = "2.0.0"
+
+description = "Enterprise AI-powered data cleaning, validation, anomaly detection, and analytics toolkit"
 
 readme = "README.md"
 
 requires-python = ">=3.9"
 
-license = {text = "MIT"}
+license = { text = "MIT" }
 
 authors = [
-{name = "Mohamed Faisal"}
+    { name = "Mohamed Faisal" }
 ]
 
 keywords = [
-"data-cleaning",
-"data-analysis",
-"csv-cleaner",
-"data-validation",
-"analytics",
-"plotly",
-"automation",
-"preprocessing"
+    "data-cleaning",
+    "data-analysis",
+    "data-validation",
+    "anomaly-detection",
+    "analytics",
+    "plotly",
+    "machine-learning",
+    "automation",
+    "eda",
+    "preprocessing",
+    "ai-analytics"
 ]
 
 classifiers = [
 
-"Programming Language :: Python :: 3",
-"Programming Language :: Python :: 3.10",
-"License :: OSI Approved :: MIT License",
-"Operating System :: OS Independent",
-"Intended Audience :: Developers",
-"Topic :: Scientific/Engineering :: Information Analysis"
+    "Development Status :: 4 - Beta",
 
+    "Intended Audience :: Developers",
+
+    "Intended Audience :: Science/Research",
+
+    "License :: OSI Approved :: MIT License",
+
+    "Operating System :: OS Independent",
+
+    "Programming Language :: Python :: 3",
+
+    "Programming Language :: Python :: 3.9",
+
+    "Programming Language :: Python :: 3.10",
+
+    "Programming Language :: Python :: 3.11",
+
+    "Topic :: Scientific/Engineering :: Information Analysis",
+
+    "Topic :: Software Development :: Libraries :: Python Modules"
 ]
+
+# =========================================================
+# RUNTIME DEPENDENCIES
+# =========================================================
 
 dependencies = [
-"pandas",
-"numpy",
-"typer",
-"chardet",
-"pytest",
-"openpyxl",
-"matplotlib",
-"plotly",
-"rich"
+
+    "pandas>=2.0.0",
+
+    "numpy>=1.24.0",
+
+    "typer>=0.9.0",
+
+    "chardet>=5.0.0",
+
+    "openpyxl>=3.1.0",
+
+    "matplotlib>=3.7.0",
+
+    "plotly>=5.18.0",
+
+    "rich>=13.0.0",
+
+    "scipy>=1.11.0",
+
+    "scikit-learn>=1.3.0"
 ]
+
+# =========================================================
+# OPTIONAL DEV DEPENDENCIES
+# =========================================================
+
+[project.optional-dependencies]
+
+dev = [
+
+    "pytest>=8.0.0",
+
+    "build>=1.0.0",
+
+    "twine>=5.0.0"
+]
+
+# =========================================================
+# PROJECT URLS
+# =========================================================
 
 [project.urls]
 
@@ -59,9 +117,17 @@ Repository = "https://github.com/MohamedFaisal-11/masterclean"
 
 Issues = "https://github.com/MohamedFaisal-11/masterclean/issues"
 
+# =========================================================
+# CLI ENTRY POINT
+# =========================================================
+
 [project.scripts]
 
 masterclean = "masterclean.cli:main"
+
+# =========================================================
+# PACKAGE DISCOVERY
+# =========================================================
 
 [tool.setuptools.packages.find]
 

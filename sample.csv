@@ -1,11 +1,42 @@
-Customer Name,Age,Salary,Join Date,Department,Active
- Faisal ,23,50000,2024-01-15,Data Science,TRUE
-Ali,,45000,15/02/2023,Analytics,TRUE
-Ali,,45000,15/02/2023,Analytics,TRUE
-Sara,25,,March 10 2022,HR,FALSE
-john,30,70000,2021/12/01,Engineering,TRUE
-Ayesha,-5,abc,not_available,Finance,YES
-Kumar,40,85000,2020-07-20,IT,
-Fatima,,92000,,Marketing,No
-Rahul,29,56000,2022-11-11,Data Science,TRUE
-Zara,1000,9999999,2035-01-01,Unknown,maybe
+transaction_id,customer_name,email_address,age,salary,sales,department,active,date_registered,region,total_amount
+TXN001,Ali,ali@gmail.com,25,50000,200,Analytics,TRUE,2024-01-12,South,1200
+TXN002,John,john@yahoo.com,28,52000,250,Engineering,FALSE,2024-01-15,North,1400
+TXN003,Sara,sara@gmail.com,30,54000,270,Analytics,TRUE,2024-01-18,East,1500
+TXN004,Mike,mike@gmail,27,51000,260,Finance,TRUE,2024-01-20,West,1350
+TXN005,Aisha,,29,55000,280,Analytics,TRUE,2024-01-22,South,1600
+TXN006,Rahul,rahul@gmail.com,31,56000,290,Engineering,TRUE,2024-01-25,North,1700
+TXN007,Faisal,faisal@gmail.com,32,57000,310,Analytics,TRUE,2024-01-28,South,1800
+TXN008,Karan,karan@gmail.com,33,58000,320,Engineering,maybe,2024-02-01,East,1900
+TXN009,David,david@gmail.com,34,59000,330,Finance,FALSE,2024-02-05,West,2000
+TXN010,Emma,emma@gmail.com,35,60000,340,Analytics,TRUE,2024-02-08,South,2100
+TXN011,Chris,chris@gmail.com,36,61000,350,Analytics,TRUE,2024-02-10,North,2200
+TXN012,Lisa,lisa@gmail.com,37,62000,360,Engineering,TRUE,2024-02-12,East,2300
+TXN013,Noah,noah@gmail.com,38,63000,370,Engineering,TRUE,2024-02-15,South,2400
+TXN014,Olivia,olivia@gmail.com,39,64000,380,Finance,FALSE,2024-02-18,West,2500
+TXN015,James,james@gmail.com,40,65000,390,Analytics,TRUE,2024-02-20,South,2600
+TXN016,Sophia,sophia@gmail.com,41,66000,400,Engineering,TRUE,2024-02-22,North,2700
+TXN017,Daniel,daniel@gmail.com,42,67000,410,Analytics,TRUE,2024-02-25,South,2800
+TXN018,Charlotte,charlotte@gmail.com,43,68000,420,Finance,TRUE,2024-02-28,East,2900
+TXN019,Henry,henry@gmail.com,44,69000,430,Engineering,FALSE,2024-03-01,West,3000
+TXN020,Amelia,amelia@gmail.com,45,70000,440,Analytics,TRUE,2024-03-03,South,3100
+TXN021,Ethan,ethan@gmail.com,46,71000,450,Analytics,TRUE,2024-03-05,South,3200
+TXN022,Mia,mia@gmail.com,47,72000,460,Engineering,TRUE,2024-03-07,North,3300
+TXN023,Lucas,lucas@gmail.com,48,73000,470,Finance,TRUE,2024-03-10,East,3400
+TXN024,Harper,harper@gmail.com,49,74000,480,Analytics,TRUE,2024-03-12,South,3500
+TXN025,Benjamin,ben@gmail.com,50,75000,490,Engineering,FALSE,2024-03-15,West,3600
+TXN026,Evelyn,evelyn@gmail.com,51,76000,500,Finance,TRUE,2024-03-18,North,3700
+TXN027,Alexander,alex@gmail.com,52,77000,510,Analytics,TRUE,2024-03-20,South,3800
+TXN028,Abigail,abigail@gmail.com,53,78000,520,Engineering,TRUE,2024-03-22,East,3900
+TXN029,Michael,michael@gmail.com,54,79000,530,Finance,FALSE,2024-03-25,West,4000
+TXN030,Emily,emily@gmail.com,55,80000,540,Analytics,TRUE,2024-03-28,South,4100
+TXN031,FraudUser1,fraud@spam.com,120,9999999,99999,Unknown,TRUE,,Unknown,999999
+TXN032,FraudUser2,invalid_email,-5,-1000,-500,Hackers,maybe,,Mars,-99999
+TXN033,FraudUser3,test@@gmail.com,200,15000000,200000,Unknown,FALSE,,South,888888
+TXN034,TestUser,,150,12000000,150000,Analytics,TRUE,,North,777777
+TXN035,Duplicate,duplicate@gmail.com,35,60000,340,Analytics,TRUE,2024-02-08,South,2100
+TXN035,Duplicate,duplicate@gmail.com,35,60000,340,Analytics,TRUE,2024-02-08,South,2100
+TXN036,,,,,,,,,,
+TXN037,NullGuy,null@gmail.com,,85000,,Engineering,,2024-04-01,East,
+TXN038,SkewedUser,skew@gmail.com,60,999999,50000,Finance,TRUE,2024-04-05,West,250000
+TXN039,SpikeUser,spike@gmail.com,61,1500000,70000,Sales,TRUE,2024-04-08,South,500000
+TXN040,OutlierUser,outlier@gmail.com,62,2500000,90000,Finance,TRUE,2024-04-10,North,750000

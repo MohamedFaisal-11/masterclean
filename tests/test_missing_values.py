@@ -1,6 +1,6 @@
 import pandas as pd
 
-from masterclean.cleaner import clean_data
+from masterclean.preprocessing.cleaner import clean_data
 
 
 def test_missing_values():

@@ -1,18 +1,33 @@
 import pandas as pd
 
-from masterclean.profiler import generate_profile
+from masterclean.validation.profiler import generate_profile
 
 
 def test_profile_generation():
 
     df = pd.DataFrame({
 
-        "salary": [100, 200, 300]
+        "name": ["John", "Alice"],
+        "age": [25, 30]
 
     })
 
     profile = generate_profile(df)
 
-    assert "rows" in profile
+    assert profile["rows"] == 2
 
-    assert "column_profiles" in profile
+    assert profile["columns"] == 2
+
+
+def test_health_score():
+
+    df = pd.DataFrame({
+
+        "name": ["John", None],
+        "age": [25, 25]
+
+    })
+
+    profile = generate_profile(df)
+
+    assert "health_score" in profile

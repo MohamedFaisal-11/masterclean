@@ -1,0 +1,1041 @@
+Transaction_ID,Date_Registered,Customer_Name,Age,Total_Amount,Device_Used,Email_Address,Is_Verified
+txn_0137,21/01/2023,Ananya Iyer,50,46235.66,android-phone,user_136@example.com,yes
+TXN-0629,"Feb 09, 2024",Meera Krishnan,42,24040.70,windows_pc,user_628@example.com,
+TXN-0185,2024-02-30,N/A,27,134295.32,macbook Air,user_184@example.com,Pending
+TXN-0032,NULL,ananya  iyer,32,₹50730.28,Android Phone,user_31@example.com,0
+TXN-0678,2023-06-10,diya  pillai,30,90193.79,,user_677@example.com,FALSE
+TXN-0937,2023.06.19,Dr. Siddharth Rao PhD,64,99009.10,windows_pc,user_936@example.com,no
+TXN-0290,04-26-2023,Diya Pillai,22,73932.75,windows_pc,user_289@example.com,0
+TXN-0328,"Mar 27, 2024",Diya Pillai,52,5243.56,MacBook Pro,user_327@example.com,0
+TXN-0492,2023.10.13,Dr. Meera Krishnan PhD,23,141244.90,android-phone,user_491@example.com,FALSE
+ TXN-0395 ,2023-11-27,Siddharth Rao,22,85377.43,  MacBook  ,user_394@example.com,yes
+TXN-0667,03/01/2023,Meera Krishnan,240,51063.99,Android Phone,user_666@example.com,FALSE
+TXN-0546,09-27-2023,Ananya Iyer,51,23413.46,,user_545@example.com,yes
+TXN-0870,NULL,Vijay Kumar,52,33659.10 USD,windows_pc,user_869@example.com,0
+TXN-0762,NULL,Priya Balan,,39791.94,macbook Air,test_email,yes
+txn_0257,2023.02.09,Diya Pillai,64,80553.59,Android Phone, user_256@yahoo.com ,1
+TXN-0077,2023-01-26,Dr. Meera Krishnan PhD,62,99339.62,iPhone,user_76@example.com,
+TXN-0774,"Oct 29, 2023",Siddharth Rao,,148050.26,IPHONE,user_773@example.com,1
+TXN-0851,2023-11-22,Dr. Diya Pillai PhD,61,124389.33,MacBook Pro,user_850@example.com,active
+TXN-0332,2023-07-25,N/A,42,19200.22,,user_331@example.com,
+TXN-0630,,Ananya Iyer,?,33441.25,windows_pc,user_629@example.com,  
+TXN-0969,"Sep 10, 2023",Rahul Subramanian,240,75931.96,Windows PC,user_968@example.com,Pending
+TXN-0812,2023.09.25,Vijay Kumar,63,107706.00,macbook Air,user_811@example.com,Pending
+TXN-0378,2023.10.21,RAHUL SUBRAMANIAN,?,122141.94,IPHONE, user_377@yahoo.com ,
+TXN-0723,2024-02-30,Siddharth Rao,48,"$138,334.60",  MacBook  ,user_722@example.com,  
+TXN-0623,2023-10-09,Ananya Iyer,44,22070.49,Android Phone,user_622@example.com,no
+TXN-0430,11-07-2023,Rahul Subramanian,?,₹6162.02,Windows PC, user_429@yahoo.com ,no
+TXN-0917,,Siddharth Rao,40,141996.76,MacBook Pro,user_916@example.com,FALSE
+TXN-0087,19/04/2023,Rahul Subramanian,33,57951.28,Android Phone,user_86@gmail..com,Pending
+TXN-0319,07/05/2024,Rahul Subramanian,62,"$129,461.85",Android Phone,user_318@example.com,1
+TXN-0591,NULL,Arjun Das,62,₹60606.75,,user_590@example.com,  
+TXN-0175,"Oct 20, 2023",rahul  subramanian,,120203.65,  MacBook  ,user_174@example.com,1
+TXN-0209,2023-07-04,Rahul Subramanian,52,51988.76,Windows PC,test_email,yes
+TXN-0520,"May 06, 2023",Siddharth Rao,57,56867.49,IPHONE,user_519@example.com,no
+TXN-0971,2024.02.08,Diya Pillai!!!,47,132350.55,Android Phone,user_970@example.com,no
+TXN-0954,,Vijay Kumar,45,83269.71,Windows PC,user_953@example.com,1
+TXN-0114,05/11/2023,Ananya Iyer,25,"$17,216.11",iPhone,user_113@example.com,0
+TXN-0440,2023-08-15,Meera Krishnan,28,"$58,327.61",MacBook Pro,user_439@example.com,no
+TXN-0555,,Vijay Kumar,61,56955.70,,user_554@example.com,yes
+,,Vijay Kumar,37,136962.56,Windows PC,user_539@gmail..com,
+TXN-0060,2024.03.08,Ananya Iyer,33,"$54,250.52",Android Phone,user_59@example.com,1
+TXN-0549,2023.08.24,Meera Krishnan,62,118153.13,macbook Air, user_548@yahoo.com ,yes
+TXN-0695,2023-05-30,Siddharth Rao,26,124885.75,Windows PC,user_694@example.com,yes
+TXN-0690,2024.05.08,Ananya Iyer,40,67023.58,iPhone,none@specified,Pending
+TXN-0200,02-02-2024,Aarav Sharma,44,94933.19 USD,Android Phone,user_199@example.com,  
+TXN-0779,2024-04-26,Rahul Subramanian,33,141219.50,macbook Air,user_778@example.com,yes
+TXN-0735,"May 10, 2024",Ananya Iyer,,102542.85,,user_734@example.com,no
+TXN-0443,"Jan 29, 2023",Siddharth Rao,34,117699.96,macbook Air,user_442@example.com,1
+TXN-0517,2023.10.27,Siddharth Rao,40,,macbook Air,user_516@example.com,FALSE
+TXN-0948,2023.03.31,Ananya Iyer,37,145353.51,MacBook Pro,user_947@example.com,FALSE
+TXN-0281,"Jan 29, 2024",Priya Balan,39,90718.31,,user_280@example.com,no
+TXN-0322,"Sep 21, 2023",Vijay Kumar,,39468.43,Windows PC,user_321@example.com,Pending
+TXN-0050,2023.10.28,Aditya Nair,62,40447.55,iPhone,user_49@example.com,yes
+TXN-0888,2023-03-04,SIDDHARTH RAO,59,42152.51,Android Phone,user_887@example.com,Pending
+TXN-0110,2023.09.29,Vijay Kumar,?,20215.55 USD,  MacBook  ,user_109@example.com,True
+txn_0981,"Nov 11, 2023",N/A,43,109942.78,IPHONE,user_980@gmail..com,Pending
+TXN-0374,06-02-2023,Aditya Nair,26,118351.13,Android Phone,user_373@example.com,True
+TXN-0765,21/02/2024,Arjun Das,44,25919.99,Android Phone,user_764@example.com,yes
+TXN-0962,2023-03-27,Meera Krishnan,,24337.53,Android Phone,user_961@example.com,FALSE
+TXN-0011,21/04/2023,Siddharth Rao,63,₹55946.83,MacBook Pro,user_10@example.com,
+ TXN-0502 ,03-21-2024,Meera Krishnan,36,49959.21,iPhone,user_501@example.com,0
+TXN-0524,01-11-2024,ANANYA IYER,51,93623.71,macbook Air,user_523@example.com,True
+TXN-0662,"Aug 07, 2023",Arjun Das,50,104811.88,macbook Air,user_661@example.com,Pending
+TXN-0071,NULL,Meera Krishnan,30,101924.15,MacBook Pro, user_70@yahoo.com ,1
+TXN-0520,"May 06, 2023",Siddharth Rao,57,56867.49,IPHONE,user_519@example.com,no
+TXN-0627,03-13-2023,Dr. Diya Pillai PhD,47,59358.71,Android Phone,user_626@example.com,0
+TXN-0262,2023-10-15,DIYA PILLAI,30,49983.96,windows_pc,user_261@example.com,1
+TXN-0362,,Vijay Kumar,33,143663.70,iPhone,user_361@example.com,1
+TXN-0399,2023-04-01,Siddharth Rao,41,35121.60,Android Phone,user_398@example.com,Pending
+ TXN-0343 ,2024-02-30,Aditya Nair,34,61724.09,macbook Air,user_342@gmail..com,1
+TXN-0437,2023.02.01,Aarav Sharma,28,15459.99,iPhone,user_436@example.com,0
+TXN-0531,2023-04-29,Priya Balan,24,96975.95,,user_530@example.com,
+TXN-0333,04-10-2023,Aditya Nair,65,,iPhone, user_332@yahoo.com ,1
+TXN-0140,"May 25, 2023",N/A,52,129021.06,macbook Air,none@specified,1
+TXN-0882,12-13-2023,Aditya Nair,56,"$37,039.67",Windows PC,user_881@example.com,True
+TXN-0760,05/08/2023,Vijay Kumar,34,28823.35,  MacBook  ,user_759@example.com,yes
+TXN-0313,03-08-2023,Rahul Subramanian,55,140503.89 USD,iPhone,user_312@example.com,
+TXN-0925,30/04/2024,Aarav Sharma,49,,IPHONE,user_924@example.com,no
+TXN-0142,,Aditya Nair,42,66045.61,iPhone,user_141@example.com,1
+txn_0132,2024.02.19,diya  pillai,45,130474.61,  MacBook  ,user_131@gmail..com,1
+TXN-0554,"Oct 10, 2023",Aditya Nair,39,,iPhone,user_553@example.com,FALSE
+TXN-0718,2023-12-14,Diya Pillai,45,74328.57,iPhone,user_717@example.com,True
+TXN-0949,2024.04.20,PRIYA BALAN,35,16824.85,IPHONE, user_948@yahoo.com ,no
+txn_0089,NULL,Arjun Das,34,129988.78,,user_88@example.com,  
+TXN-0843,,Priya Balan,46,100204.35 USD,IPHONE,user_842@example.com,
+TXN-0306,05-04-2024,Priya Balan,38,119668.53,macbook Air,user_305@example.com,Pending
+TXN-0102,2024.02.15,Aarav Sharma,-25,65795.24,macbook Air,user_101#domain.com,1
+TXN-0311,03-15-2023,Rahul Subramanian,33,29382.51,windows_pc,user_310@example.com,1
+TXN-0860,2024-01-18,Rahul Subramanian,44,113947.99,android-phone,user_859@example.com,
+TXN-0452,2023-08-30,Siddharth Rao,?,₹47576.37,macbook Air,user_451@example.com,0
+TXN-0097,03-17-2024,Arjun Das,62,125009.55,,user_96@example.com,no
+TXN-0815,2024-02-30,Aditya Nair,53,39535.50,MacBook Pro,user_814@example.com,  
+TXN-0793,,Ananya Iyer,50,8008.71,  MacBook  ,user_792@example.com,no
+TXN-0031,,Priya Balan,64,15378.03,IPHONE,user_30@example.com,Pending
+TXN-0159,,Priya Balan,42,73800.00,Windows PC,user_158@example.com,True
+TXN-0689,2024-02-30,Arjun Das,240,57965.41,macbook Air,user_688@example.com,no
+TXN-0055,2023.10.23,Aditya Nair,?,9119.94,  MacBook  ,user_54@example.com,1
+TXN-0024,2024.04.29,Rahul Subramanian,62,93111.01,windows_pc,user_23@example.com,FALSE
+TXN-0612,"Nov 14, 2023",Siddharth Rao,32,49711.09,Windows PC,user_611@example.com,  
+TXN-0740,2024-01-26,Aarav Sharma,41,88420.88,  MacBook  ,user_739@example.com,active
+TXN-0645,"Jul 11, 2023",siddharth  rao,60,unpaid,  MacBook  ,user_644@example.com,True
+,2024.02.20,Diya Pillai,40,107802.01,  MacBook  ,user_633@example.com,yes
+TXN-0602,Urgent / Pending,N/A,63,28496.92,android-phone,user_601@example.com,  
+TXN-0179,2024-02-30,Rahul Subramanian,50,,Windows PC,user_178@example.com,active
+TXN-0004,2024-05-10,Ananya Iyer,25,34604.07,iPhone,user_3#domain.com,  
+TXN-0278,10/10/2023,Ananya Iyer,-25,32841.60 USD,windows_pc,user_277@example.com,Pending
+TXN-0594,2023-02-22,Diya Pillai,30,86928.77,macbook Air,user_593@example.com,
+TXN-0293,10-10-2023,Ananya Iyer,48,85385.90,macbook Air,user_292@example.com,no
+txn_0299,2024.04.18,Ananya Iyer,32,49592.52,  MacBook  ,user_298@example.com,FALSE
+TXN-0817,01-16-2023,Priya Balan,28,21400.99 USD,,user_816@example.com,FALSE
+txn_0874,30/01/2024,Meera Krishnan,28,23164.12,IPHONE,user_873@example.com,  
+TXN-0232,"Apr 03, 2024",Meera Krishnan,46,79735.65,MacBook Pro,user_231@example.com,1
+TXN-0211,2023.09.17,Vijay Kumar,59,113521.09,IPHONE,user_210@example.com,True
+TXN-0459,02/03/2023,Rahul Subramanian,32,9729.34,Windows PC,user_458@example.com,1
+TXN-0924,2024-04-14,Arjun Das,57,36480.91,MacBook Pro,user_923@example.com,active
+TXN-0933,"Mar 31, 2023",Siddharth Rao,25,104544.04,  MacBook  ,user_932@example.com,yes
+TXN-0241,07/08/2023,Vijay Kumar,47,19950.08,Android Phone,user_240#domain.com,yes
+TXN-0406,08-28-2023,ananya  iyer,33,8917.66,  MacBook  ,user_405@example.com,Pending
+TXN-0064,02-29-2024,Diya Pillai!!!,51,₹130384.22,android-phone,user_63@example.com,True
+TXN-0320,2024.04.23,Aarav Sharma,58,"$66,228.47",windows_pc,user_319@example.com,  
+TXN-0469,2023-11-11,Meera Krishnan,33,unpaid,windows_pc,user_468@example.com,FALSE
+TXN-0441,2024.01.03,N/A,-25,132134.86,Android Phone,user_440@example.com,yes
+ TXN-0101 ,,N/A,22,121876.06,macbook Air,user_100@example.com,yes
+TXN-0337,NULL,Aarav Sharma,63,61773.27,IPHONE,user_336@example.com,FALSE
+TXN-0451,2024-04-23,Meera Krishnan,240,119797.51,Android Phone,user_450@example.com,  
+TXN-0409,12/05/2023,Meera Krishnan,28,70628.37,Windows PC,user_408@example.com,FALSE
+TXN-0108,03/02/2024,Aarav Sharma,24,66278.78,android-phone,user_107@example.com,Pending
+TXN-0169,04/01/2024,Rahul Subramanian,32,51666.30,IPHONE,user_168@example.com,FALSE
+TXN-0040,"Apr 21, 2023",Arjun Das,61,87576.66,Android Phone,user_39@example.com,yes
+TXN-0199,2023.11.08,Rahul Subramanian,32,7445.53,macbook Air,user_198@example.com,1
+TXN-0238,2023-06-14,Arjun Das,44,30558.01,macbook Air,user_237@gmail..com,
+TXN-0576,2024.01.29,Rahul Subramanian,26,43432.42,IPHONE,user_575@example.com,
+TXN-0193,2023-03-12,Dr. Aditya Nair PhD,47,100819.67,Android Phone,user_192@example.com,0
+TXN-0705,01/12/2023,Rahul Subramanian,30,76387.78,Windows PC,user_704@example.com,  
+TXN-0724,"May 07, 2023",Priya Balan,32,85362.78,MacBook Pro,test_email,yes
+TXN-0067,2023-06-29,Diya Pillai,42,88349.00,MacBook Pro,user_66@example.com,1
+ TXN-0068 ,2023.03.15,Arjun Das,46,145778.16,iPhone,user_67@example.com,yes
+TXN-0921,30/04/2023,Dr. Ananya Iyer PhD,?,147919.71,Windows PC,user_920@example.com,
+TXN-0498,2023.12.11,Diya Pillai,36,90413.12,IPHONE,user_497@gmail..com,no
+TXN-0214,2023-05-10,Priya Balan,37,35153.87,  MacBook  ,user_213@example.com,Pending
+TXN-0831,Urgent / Pending,Priya Balan,53,143165.43,MacBook Pro,user_830@example.com,0
+TXN-0835,06-13-2023,Siddharth Rao,29,55515.87,macbook Air,user_834@example.com,FALSE
+TXN-0650,NULL,Aarav Sharma,27,33010.86 USD,Windows PC,user_649@example.com,active
+TXN-0351,2024-02-22,Diya Pillai,36,145845.79,Windows PC,user_350@example.com,0
+TXN-0862,2023-07-21,Diya Pillai,37,104820.95,MacBook Pro,user_861@example.com,FALSE
+TXN-0603,"May 18, 2023",Diya Pillai,42,59760.74,iPhone,user_602@example.com,0
+TXN-0559,2024-03-15,Meera Krishnan,25,63569.41,IPHONE,user_558@example.com,1
+TXN-0878,,Vijay Kumar,61,unpaid,android-phone,user_877@example.com,True
+TXN-0788,2024-02-30,Siddharth Rao!!!,24,93210.92,, user_787@yahoo.com ,1
+TXN-0442,2024.04.05,Siddharth Rao,61,51735.26,,user_441@example.com,no
+TXN-0746,19/12/2023,diya  pillai,240,62447.71,windows_pc,user_745@example.com,yes
+TXN-0309,Urgent / Pending,aarav  sharma,59,,iPhone,user_308@example.com,Pending
+TXN-0707,2024-03-17,Ananya Iyer,48,119281.62,,user_706@example.com,yes
+TXN-0405,31/03/2024,N/A,40,96575.96,Windows PC,user_404@example.com,Pending
+TXN-0003,,Rahul Subramanian,55,141779.89,Windows PC,user_2@gmail..com,active
+,"Oct 09, 2023",Aditya Nair,52,127336.67,Windows PC,user_430@example.com,
+TXN-0545,2024-02-30,Arjun Das,23,77482.11,,user_544@example.com,active
+TXN-0771,15/08/2023,ANANYA IYER,34,"$87,868.09",  MacBook  ,user_770@example.com,0
+TXN-0345,2023.11.07,Ananya Iyer,33,,windows_pc,test_email,  
+TXN-0980,2024-04-04,Vijay Kumar,48,64289.05,iPhone,user_979@example.com,no
+TXN-0987,05-25-2023,Aditya Nair,25,112750.72,IPHONE, user_986@yahoo.com ,True
+TXN-0785,2023-11-01,Rahul Subramanian,-25,90764.28 USD,Windows PC,user_784@gmail..com,True
+TXN-0484,05-12-2024,Priya Balan,32,51765.17,  MacBook  ,user_483@example.com,FALSE
+TXN-0916,19/05/2023,N/A,48,1213.23,android-phone,user_915@example.com,1
+TXN-0358,"Nov 14, 2023",Vijay Kumar,240,45935.34,macbook Air,user_357@example.com,Pending
+TXN-0558,08-11-2023,Siddharth Rao,43,125343.76,windows_pc, user_557@yahoo.com ,no
+TXN-0586,21/11/2023,Arjun Das,33,71847.53,macbook Air,user_585@gmail..com,FALSE
+TXN-0722,09/03/2023,Rahul Subramanian,45,62027.89,MacBook Pro,user_721@example.com,no
+,02-04-2023,Aditya Nair,57,146205.59,android-phone,user_964@example.com,
+TXN-0881,"Jul 02, 2023",Meera Krishnan,26,61314.60,MacBook Pro,user_880@example.com,yes
+TXN-0219,23/06/2023,meera  krishnan,51,2680.86 USD,android-phone, user_218@yahoo.com ,active
+TXN-0360,2023.01.17,Siddharth Rao,30,84004.31 USD,windows_pc,none@specified,0
+TXN-0754,2023-02-16,Siddharth Rao,52,₹104812.08,,user_753@example.com,
+TXN-0548,,Vijay Kumar,45,71796.67,Windows PC,user_547#domain.com,yes
+TXN-0248,14/12/2023,Aditya Nair,23,148058.87,Android Phone,user_247@example.com,
+TXN-0768,09/11/2023,Arjun Das,58,72311.35,windows_pc,user_767#domain.com,
+TXN-0903,Urgent / Pending,Meera Krishnan,35,78412.73,,none@specified,  
+TXN-0307,"Feb 17, 2024",Siddharth Rao,,84683.62,windows_pc,none@specified,True
+,06-08-2023,Priya Balan,52,79272.29,MacBook Pro,user_106@example.com,Pending
+TXN-0988,"Jan 26, 2023",Arjun Das!!!,33,111160.82,macbook Air,user_987@example.com,
+TXN-0056,"Dec 03, 2023",N/A,,35403.63 USD,android-phone,user_55@example.com,yes
+TXN-0121,11-18-2023,Diya Pillai,35 years,13594.09,iPhone,user_120@example.com,1
+TXN-0801,15/04/2023,Vijay Kumar,55,30227.85,Android Phone,user_800@example.com,FALSE
+TXN-0026,2024.03.19,SIDDHARTH RAO,54,69375.09,IPHONE,user_25@example.com,Pending
+TXN-0073,03-22-2023,Vijay Kumar,43,102479.30,,user_72#domain.com,  
+TXN-0210,2023.10.06,Aditya Nair,43,13883.26,Windows PC,user_209@example.com,Pending
+txn_0045,"Mar 20, 2023",Aarav Sharma,59,7771.81 USD,MacBook Pro,user_44@example.com,0
+TXN-0315,03-04-2023,Dr. Arjun Das PhD,31,37699.04,Android Phone,user_314@example.com,True
+TXN-0867,20/05/2023,Rahul Subramanian,24,69281.11,,user_866@example.com,active
+TXN-0654,NULL,Vijay Kumar,64,₹122484.72,  MacBook  ,user_653@example.com,Pending
+TXN-0329,2023-01-05,Diya Pillai,55,₹59223.33,MacBook Pro,user_328@example.com,active
+TXN-0926,"Feb 13, 2024",RAHUL SUBRAMANIAN,24,143664.55,Android Phone,test_email,1
+TXN-0352,2023-12-11,Meera Krishnan,38,"$140,105.85",,user_351@example.com,Pending
+ TXN-0957 ,,Diya Pillai,37,52562.05,IPHONE,test_email,  
+TXN-0636,NULL,Priya Balan,58,8999.86,macbook Air,user_635@example.com,active
+TXN-0715,03-28-2023,Siddharth Rao,42,71025.93 USD,MacBook Pro,user_714@example.com,
+TXN-0371,12-13-2023,Priya Balan,43,101298.88,  MacBook  ,user_370@example.com,Pending
+TXN-0686,2023.08.19,meera  krishnan,,136106.90,MacBook Pro,user_685@example.com,  
+TXN-0811,Urgent / Pending,Meera Krishnan,59,14507.91,Windows PC,user_810@example.com,yes
+TXN-0539,10-02-2023,Siddharth Rao,30,113154.77,windows_pc,user_538@example.com,True
+TXN-0615,2024-02-30,Meera Krishnan,33,₹104539.63,Android Phone,user_614@example.com,no
+TXN-0465,14/07/2023,Vijay Kumar,52,147310.19,Android Phone,user_464@example.com,0
+TXN-0999,04-05-2023,Aarav Sharma,65,81421.23,Android Phone,user_998@example.com,
+TXN-0363,"Mar 19, 2023",Siddharth Rao,33,102696.79,MacBook Pro,user_362@example.com,1
+ TXN-0544 ,NULL,Aditya Nair,58,98710.08,,user_543@example.com,
+TXN-0618,"May 30, 2023",Diya Pillai,24,2798.21,macbook Air,user_617@example.com,active
+TXN-0061,2024.02.24,SIDDHARTH RAO,40,73397.95,android-phone,user_60@example.com,active
+TXN-0842,"Oct 11, 2023",Meera Krishnan,30,90698.25,,user_841@gmail..com,no
+TXN-0823,03-27-2023,DIYA PILLAI,23,110717.30,,user_822@example.com,active
+TXN-0093,12-09-2023,Aarav Sharma,35,19146.01,IPHONE,user_92@example.com,active
+TXN-0635,2024-04-13,Vijay Kumar,58,59324.32,Android Phone,user_634@example.com,0
+TXN-0382,08-15-2023,Priya Balan,-25,140513.71,macbook Air,user_381@example.com,0
+TXN-0507,23/07/2023,Diya Pillai,46,99929.30,macbook Air, user_506@yahoo.com ,Pending
+TXN-0694,,Arjun Das,53,,android-phone,user_693@example.com,1
+TXN-0875,08-26-2023,Priya Balan,35,64754.41,android-phone,user_874@example.com,True
+TXN-0854,NULL,Siddharth Rao,30,₹129976.33,  MacBook  ,user_853@example.com,active
+TXN-0973,Urgent / Pending,Dr. Meera Krishnan PhD,37,142181.28,android-phone,user_972@example.com,yes
+TXN-0632,"Sep 17, 2023",Meera Krishnan,43,,MacBook Pro,user_631@example.com,
+TXN-0245,2023-05-21,Aditya Nair,,unpaid,MacBook Pro,user_244@example.com,active
+TXN-0347,13/06/2023,Siddharth Rao!!!,26,81185.53,,user_346@example.com,True
+TXN-0353,10-26-2023,Siddharth Rao,23,90162.92,Windows PC,user_352@example.com,no
+,01-14-2023,arjun  das,58,20452.95,macbook Air,user_275@example.com,0
+TXN-0266,2024-02-30,Aarav Sharma,61,₹10454.89,Windows PC,user_265@example.com,Pending
+TXN-0308,2023-02-07,priya  balan,-25,84431.92 USD,MacBook Pro,user_307@example.com,active
+TXN-0919,,Aarav Sharma,37,67404.42,android-phone,user_918@example.com,active
+ TXN-0529 ,2023-12-09,Dr. Aarav Sharma PhD,58,54633.35,iPhone,user_528@example.com,no
+TXN-0515,24/04/2023,Aditya Nair,51,88096.82,android-phone,user_514@gmail..com,0
+TXN-0111,02-02-2024,Diya Pillai,56,126420.93,macbook Air,user_110#domain.com,  
+TXN-0737,05-26-2023,Rahul Subramanian,240,126417.65,,user_736@example.com,True
+TXN-0579,"Aug 19, 2023",Rahul Subramanian,52,26768.08,macbook Air,user_578@example.com,yes
+TXN-0535,"Dec 04, 2023",Siddharth Rao,28,,Windows PC,test_email,yes
+TXN-0696,10-03-2023,Siddharth Rao,45,36363.33,iPhone,user_695@example.com,0
+TXN-0534,2023.12.08,Meera Krishnan!!!,52,"$31,006.02",macbook Air,user_533@example.com,  
+TXN-0449,"Jan 24, 2023",Priya Balan,59,63846.13,Windows PC,user_448@example.com,True
+TXN-0295,2023-10-01,Siddharth Rao,24,108341.12,android-phone,user_294@example.com,
+TXN-0300,,Ananya Iyer,64,100078.11,IPHONE,user_299@example.com,FALSE
+TXN-0825,2024.04.02,N/A,42,128593.85,  MacBook  ,user_824@example.com,True
+TXN-0759,2024-02-23,Diya Pillai,35,68258.60,Android Phone,user_758@example.com,yes
+ TXN-0996 ,"Jul 23, 2023",Siddharth Rao,60,64101.36,iPhone,user_995@example.com,active
+TXN-0750,02-12-2023,Diya Pillai,49,112611.16 USD,macbook Air,user_749@example.com,1
+TXN-0665,2024.01.13,Ananya Iyer,49,132734.35,MacBook Pro,user_664@gmail..com,  
+TXN-0571,14/01/2024,Diya Pillai,59,134337.93,MacBook Pro,user_570@example.com,yes
+ TXN-0291 ,09-23-2023,Vijay Kumar,54,53079.29 USD,MacBook Pro,user_290#domain.com,  
+TXN-0775,08-08-2023,Vijay Kumar,35,139900.74,Windows PC,user_774@example.com,yes
+TXN-0138,2023.08.13,Aarav Sharma,52,3265.23 USD,iPhone,user_137@example.com,True
+TXN-0410,,Siddharth Rao,44,114142.55,windows_pc,user_409@example.com,yes
+TXN-0421,01-06-2023,Ananya Iyer,,89368.78,MacBook Pro,user_420@example.com,
+TXN-0742,"Mar 04, 2024",PRIYA BALAN,36,,macbook Air,user_741@example.com,active
+TXN-0797,"Aug 05, 2023",Siddharth Rao,52,₹64874.23,  MacBook  ,user_796@example.com,  
+TXN-0287,2024-04-11,Vijay Kumar,56,88936.29 USD,  MacBook  ,user_286@example.com,0
+TXN-0592,NULL,aditya  nair,,79447.68,windows_pc,user_591@example.com,Pending
+TXN-0848,07/10/2023,Meera Krishnan,32,124508.76,android-phone,user_847@example.com,  
+TXN-0030,"Sep 09, 2023",Meera Krishnan,43,110732.42,,user_29@example.com,1
+TXN-0261,2023.09.13,Aditya Nair,53,78526.64,macbook Air,user_260@gmail..com,yes
+TXN-0079,"Aug 15, 2023",Diya Pillai,60,2064.33,macbook Air,user_78@example.com,0
+TXN-0216,2023-12-03,Ananya Iyer,35 years,69462.73,Windows PC,user_215@gmail..com,yes
+TXN-0789,"Oct 19, 2023",Rahul Subramanian!!!,35 years,71909.94,windows_pc, user_788@yahoo.com ,  
+txn_0166,2024.01.30,N/A,57,"$44,056.36",MacBook Pro,user_165@example.com,FALSE
+TXN-0249,2023.03.15,Aarav Sharma,59,10120.40 USD,MacBook Pro,user_248@example.com,yes
+TXN-0786,2024-05-15,Meera Krishnan,240,42785.13,MacBook Pro,user_785@example.com,FALSE
+TXN-0643,2024.01.18,Aarav Sharma,36,132484.22,  MacBook  ,user_642@example.com,no
+TXN-0940,,Dr. Vijay Kumar PhD,58,65724.00,MacBook Pro,user_939@example.com,  
+TXN-0335,2024.01.27,Rahul Subramanian,62,58495.55,android-phone,user_334@example.com,no
+TXN-0598,,Aditya Nair,23,92418.69,,user_597@example.com,Pending
+TXN-0927,05/03/2024,Vijay Kumar,39,33347.14,MacBook Pro,user_926@example.com,Pending
+TXN-0066,01-26-2024,Dr. Aarav Sharma PhD,27,41791.75,  MacBook  ,user_65@example.com,
+TXN-0366,2024-01-12,Aditya Nair,39,147473.67,IPHONE,user_365@example.com,yes
+TXN-0978,Urgent / Pending,ARJUN DAS,27,83659.20,  MacBook  ,none@specified,no
+TXN-0255,Urgent / Pending,Arjun Das,45,148363.22,Android Phone,user_254@example.com,1
+TXN-0709,2024.01.13,Arjun Das,,114118.24,iPhone,user_708@example.com,True
+TXN-0820,2023-10-23,Aditya Nair,30,139848.89,IPHONE,user_819@example.com,0
+TXN-0222,"Feb 02, 2023",Vijay Kumar,47,25651.93,windows_pc,user_221@example.com,Pending
+,,Meera Krishnan,65,104983.83,Android Phone,user_235@example.com,FALSE
+TXN-0495,"Apr 17, 2024",Priya Balan,50,₹22691.95,iPhone,user_494@example.com,0
+TXN-0523,"Nov 25, 2023",Meera Krishnan,35,88093.79,,user_522@example.com,Pending
+TXN-0297,20/03/2023,Diya Pillai,58,69787.57,Android Phone,user_296@example.com,Pending
+TXN-0581,2023.12.15,aditya  nair,40,unpaid,Windows PC,user_580@example.com,True
+TXN-0959,2023-10-17,Siddharth Rao,45,89679.21,Windows PC,user_958@example.com,active
+TXN-0250,2023-08-13,priya  balan,42,94496.23,Windows PC,user_249#domain.com,0
+TXN-0600,14/10/2023,ANANYA IYER,55,135114.79,, user_599@yahoo.com ,yes
+TXN-0448,17/01/2024,siddharth  rao,35,96039.91,  MacBook  ,user_447@example.com,
+TXN-0072,"Jul 12, 2023",Arjun Das,240,5063.66,MacBook Pro,user_71@example.com,0
+txn_0095,"Jan 22, 2023",Meera Krishnan,43,47343.42,android-phone,user_94@example.com,FALSE
+TXN-0034,2023.11.21,Aditya Nair,25,140971.14,iPhone,user_33@example.com,1
+TXN-0260,2023-02-28,Vijay Kumar,31,101258.31,  MacBook  ,user_259@example.com,0
+TXN-0205,03/01/2024,AARAV SHARMA,35 years,50989.93,iPhone,user_204@example.com,  
+TXN-0814,Urgent / Pending,Dr. Diya Pillai PhD,60,115226.87,macbook Air,user_813@gmail..com,no
+TXN-0799,12/11/2023,Arjun Das,65,128736.55,MacBook Pro,user_798@example.com,Pending
+TXN-0356,2024-01-05,Meera Krishnan,35,77137.11,Windows PC,user_355@example.com,Pending
+TXN-0078,"Dec 05, 2023",Diya Pillai,27,143334.01,IPHONE,user_77@example.com,yes
+TXN-0085,2023-11-03,Diya Pillai,55,49288.16,android-phone,user_84@example.com,0
+,"Feb 07, 2023",Priya Balan,28,74555.59,Windows PC,user_333#domain.com,
+TXN-0083,12-08-2023,Ananya Iyer,44,85890.99,  MacBook  ,none@specified,0
+TXN-0434,2023.02.11,Ananya Iyer,30,94376.55,Windows PC,user_433@example.com,Pending
+TXN-0658,01-12-2023,N/A,,16350.31,Windows PC,user_657@example.com,
+TXN-0458,2024-02-30,N/A,61,"$88,462.47",windows_pc,user_457@gmail..com,no
+TXN-0724,"May 07, 2023",Priya Balan,32,85362.78,MacBook Pro,test_email,yes
+TXN-0614,2024.02.22,Vijay Kumar,40,69970.79,iPhone,user_613@example.com,yes
+TXN-0479,24/03/2024,Diya Pillai,51,44438.10 USD,,user_478@example.com,no
+TXN-0324,,Dr. Rahul Subramanian PhD,,unpaid,  MacBook  ,user_323@example.com,FALSE
+TXN-0006,NULL,VIJAY KUMAR,41,94442.34,MacBook Pro,user_5@example.com,active
+TXN-0463,05-15-2024,Arjun Das,63,118047.36,IPHONE,user_462@example.com,no
+TXN-0105,"May 05, 2023",Aarav Sharma,33,103312.15,Android Phone,user_104@example.com,no
+TXN-0098,"Oct 21, 2023",RAHUL SUBRAMANIAN,40,74056.16,  MacBook  ,user_97@example.com,1
+TXN-0310,26/08/2023,N/A,64,9068.18,macbook Air,user_309@example.com,no
+TXN-0425,2023.07.27,Diya Pillai,65,₹50838.30,  MacBook  ,none@specified,no
+TXN-0412,09/04/2023,ADITYA NAIR,34,63705.53,windows_pc,user_411@example.com,0
+TXN-0940,,Dr. Vijay Kumar PhD,58,65724.00,MacBook Pro,user_939@example.com,  
+TXN-0282,07/02/2023,Arjun Das,27,19185.36,iPhone,user_281@example.com,no
+TXN-0267,20/08/2023,Arjun Das,54,72066.72,macbook Air,test_email,1
+ TXN-0482 ,30/10/2023,Meera Krishnan!!!,31,"$30,636.76",windows_pc,user_481@example.com,
+TXN-0680,2023.03.14,N/A,53,42585.58,  MacBook  ,user_679@example.com,  
+TXN-0596,2023.11.02,Siddharth Rao,63,69098.70,  MacBook  ,user_595@example.com,1
+TXN-0990,Urgent / Pending,Arjun Das,240,79783.21,windows_pc,user_989@example.com,Pending
+txn_0930,01-15-2023,Priya Balan,33,58009.52,  MacBook  ,user_929@example.com,Pending
+TXN-0849,Urgent / Pending,Dr. Ananya Iyer PhD,47,105976.25,Windows PC,user_848@example.com,
+TXN-0119,2024.04.18,Ananya Iyer,43,99643.02 USD,  MacBook  ,user_118@example.com,  
+TXN-0713,2023-04-16,Aarav Sharma,28,57022.17,,user_712@example.com,
+TXN-0251,2024-02-30,Dr. Siddharth Rao PhD,47,8303.13,windows_pc,user_250@example.com,  
+TXN-0669,2024.02.14,VIJAY KUMAR,?,96520.26,Android Phone, user_668@yahoo.com ,  
+,NULL,Meera Krishnan,40,105053.81,MacBook Pro,user_552@example.com,0
+TXN-0381,2023-05-28,Arjun Das,38,2455.08,Android Phone,test_email,  
+ TXN-0010 ,2024.02.29,Siddharth Rao,31,39911.85,iPhone,user_9@gmail..com,1
+TXN-0372,09/04/2023,Diya Pillai,38,134415.96,android-phone,none@specified,True
+TXN-0197,,ADITYA NAIR,35 years,92053.39 USD,windows_pc,user_196@example.com,1
+TXN-0644,2023.12.19,Arjun Das!!!,27,124771.14,windows_pc,user_643@example.com,yes
+TXN-0082,2023.05.26,Dr. Aarav Sharma PhD,58,110466.88,IPHONE,user_81@example.com,  
+TXN-0433,2023.12.15,RAHUL SUBRAMANIAN,,66957.74,IPHONE,user_432@example.com,  
+TXN-0528,2024-03-05,Diya Pillai,59,unpaid,MacBook Pro, user_527@yahoo.com ,yes
+TXN-0757,"Dec 15, 2023",N/A,22,105962.37,Android Phone,user_756@example.com,True
+TXN-0240,"Jun 06, 2023",ARJUN DAS,,109094.82,Windows PC,user_239@example.com,
+txn_0704,2023-08-06,Priya Balan,,26164.00,Windows PC,user_703@example.com,active
+TXN-0212,,N/A,49,100151.46,android-phone,user_211@example.com,0
+TXN-0763,02-22-2023,Aarav Sharma,?,62028.61,Android Phone,user_762@example.com,no
+TXN-0414,09-21-2023,Arjun Das,59,,windows_pc,user_413@example.com,  
+TXN-0514,2023-07-31,Siddharth Rao,240,60861.07,,user_513@example.com,0
+TXN-0228,2024-03-17,Dr. Siddharth Rao PhD,30,61018.32,Windows PC,none@specified,no
+TXN-0910,03/08/2023,Meera Krishnan,51,20368.25 USD,MacBook Pro,user_909@example.com,0
+TXN-0426,03-30-2024,Priya Balan,56,141599.91,IPHONE,test_email,0
+TXN-0845,"May 05, 2023",Arjun Das,53,47163.39,android-phone,user_844@example.com,1
+TXN-0178,2024.02.15,Aditya Nair,59,20410.00,iPhone,user_177#domain.com,
+TXN-0993,2023-02-19,Priya Balan,35 years,79099.48,android-phone,user_992@example.com,  
+TXN-0450,2023.02.02,Aarav Sharma,26,67360.38,MacBook Pro,user_449@example.com,yes
+TXN-0526,08/09/2023,Aditya Nair,37,120910.36,Windows PC,user_525@example.com,0
+TXN-0527,2023-10-05,Siddharth Rao,49,58097.10,MacBook Pro,user_526@example.com,True
+TXN-0537,2023-07-30,Priya Balan,35 years,42040.69,IPHONE,test_email,Pending
+TXN-0424,NULL,Vijay Kumar!!!,64,51911.66,,user_423@example.com,True
+txn_0008,01-26-2023,Meera Krishnan,49,,,user_7@example.com,FALSE
+TXN-0156,01/05/2024,Rahul Subramanian,62,73739.74,android-phone,user_155@example.com,Pending
+TXN-0577,07-23-2023,Diya Pillai,50,99344.17,iPhone,user_576@example.com,  
+TXN-0885,09/10/2023,aditya  nair,47,104139.23,  MacBook  ,test_email,1
+TXN-0330,03-27-2024,Ananya Iyer,22,62628.33,android-phone,user_329@example.com,yes
+TXN-0532,05/01/2023,Vijay Kumar,54,139079.00,  MacBook  , user_531@yahoo.com ,True
+TXN-0823,03-27-2023,DIYA PILLAI,23,110717.30,,user_822@example.com,active
+TXN-0826,01/03/2023,Ananya Iyer,?,34464.75,MacBook Pro,user_825@example.com,FALSE
+TXN-0604,2024-02-30,Diya Pillai,64,36867.03,windows_pc,user_603@gmail..com,
+TXN-0829,,Meera Krishnan,53,111999.25,MacBook Pro,user_828@example.com,1
+TXN-0616,30/04/2024,Arjun Das,64,57916.26,IPHONE,user_615@example.com,FALSE
+txn_0992,2023.12.05,Aarav Sharma,58,101569.06,Android Phone,user_991@example.com,  
+TXN-0605,Urgent / Pending,Diya Pillai,57,41938.27,macbook Air,user_604#domain.com,FALSE
+TXN-0478,11-03-2023,Ananya Iyer,56,₹5667.10,android-phone,user_477@example.com,active
+TXN-0809,NULL,Priya Balan,240,37046.54,  MacBook  ,user_808@example.com,active
+TXN-0621,2024.04.22,Siddharth Rao,33,11354.16,macbook Air,user_620#domain.com,FALSE
+TXN-0753,07/01/2024,Aarav Sharma,54,1435.39,Windows PC,user_752@example.com,no
+TXN-0905,28/03/2024,Arjun Das,62,19664.93,IPHONE,user_904@example.com,active
+TXN-0164,2024-02-30,Dr. Diya Pillai PhD,57,140917.94,MacBook Pro,user_163@example.com,FALSE
+TXN-0229,06-19-2023,Meera Krishnan,62,83577.45,android-phone,user_228@example.com,no
+ TXN-0865 ,03-11-2024,Meera Krishnan,29,87561.30,,user_864@example.com,
+TXN-0979,2024-01-10,meera  krishnan,53,131303.78,iPhone,user_978@example.com,no
+TXN-0213,"Jan 23, 2023",Arjun Das,43,unpaid,  MacBook  ,user_212@example.com,  
+TXN-0080,2024.01.22,Rahul Subramanian,40,98838.68,MacBook Pro,user_79@example.com,yes
+TXN-0149,2024-02-30,Siddharth Rao,24,88281.88,windows_pc,user_148@gmail..com,True
+TXN-0303,2023.04.18,Meera Krishnan,30,133638.48,Windows PC,test_email,0
+TXN-0389,NULL,rahul  subramanian,31,42976.91,IPHONE,user_388@example.com,FALSE
+ TXN-0519 ,"Apr 28, 2023",Vijay Kumar,32,86220.13,Windows PC,user_518@example.com,1
+TXN-0542,10/04/2024,Rahul Subramanian,,117729.59,macbook Air,user_541@example.com,1
+TXN-0890,24/04/2023,Arjun Das,26,13496.84 USD,windows_pc,user_889@example.com,0
+TXN-0044,12-07-2023,Dr. Vijay Kumar PhD,53,22299.63,IPHONE,user_43@example.com,no
+TXN-0391,2023-03-12,Arjun Das,54,,  MacBook  ,user_390@example.com,FALSE
+TXN-0134,2023-03-19,Arjun Das,41,93232.90,iPhone,user_133@gmail..com,no
+txn_0716,05-30-2023,Diya Pillai,65,unpaid,  MacBook  ,user_715@example.com,  
+TXN-0312,06-13-2023,aarav  sharma,37,134653.46,iPhone,user_311@example.com,
+TXN-0491,"Oct 15, 2023",Siddharth Rao!!!,56,121651.88,iPhone,user_490@example.com,no
+TXN-1000,09/07/2023,Diya Pillai,42,18738.81,android-phone,user_999@example.com,active
+TXN-0697,Urgent / Pending,Siddharth Rao,58,₹109078.52,iPhone, user_696@yahoo.com ,1
+TXN-0837,NULL,Vijay Kumar,50,90720.90,macbook Air,user_836@example.com,FALSE
+TXN-0001,NULL,Rahul Subramanian,47,30761.56,iPhone,user_0@example.com,True
+ TXN-0494 ,04-15-2023,Ananya Iyer,35 years,131904.17,windows_pc,user_493@example.com,
+TXN-0383,20/04/2023,Priya Balan,35 years,34162.68,,user_382@example.com,  
+TXN-0317,,Siddharth Rao,48,121269.94,windows_pc,none@specified,True
+TXN-0766,13/12/2023,Ananya Iyer,54,57406.32,iPhone,user_765@gmail..com,active
+txn_0584,NULL,Siddharth Rao,51,20534.36,iPhone,user_583@example.com,FALSE
+TXN-0866,07-21-2023,Aditya Nair,23,127651.76,iPhone,user_865@example.com,
+TXN-0568,03/06/2023,Aditya Nair,240,,android-phone,user_567@example.com,True
+TXN-0991,2023-08-07,Priya Balan,62,91577.38,android-phone,user_990#domain.com,active
+TXN-0429,02/09/2023,Arjun Das,,13928.02,Windows PC,user_428@example.com,1
+TXN-0173,"Feb 06, 2024",Dr. Aditya Nair PhD,240,125162.50,iPhone,user_172@example.com,
+TXN-0126,,Meera Krishnan,46,29054.54,iPhone,user_125@example.com,True
+TXN-0454,"May 15, 2024",Meera Krishnan!!!,50,47505.15,iPhone,user_453@example.com,0
+TXN-0483,2023.08.07,Aditya Nair,52,unpaid,macbook Air,user_482@gmail..com,FALSE
+TXN-0589,,Arjun Das,31,42185.98,,user_588@example.com,Pending
+TXN-0373,02/06/2023,Priya Balan,38,114654.95,,user_372@example.com,  
+,2024-02-30,Siddharth Rao,,unpaid,windows_pc,user_90@example.com,yes
+TXN-0997,12-05-2023,Aarav Sharma,42,56744.93,macbook Air,user_996@example.com,yes
+TXN-0182,2023-09-22,Meera Krishnan,64,,Android Phone,user_181@example.com,no
+TXN-0364,2023.07.30,Aarav Sharma,51,40090.82,Windows PC,user_363@example.com,
+TXN-0275,13/03/2023,Meera Krishnan,24,20116.48 USD,MacBook Pro,user_274@example.com,active
+TXN-0950,2023.04.25,Meera Krishnan,?,27349.24,  MacBook  ,user_949@example.com,FALSE
+TXN-0070,2024-05-12,Diya Pillai,26,12633.58,android-phone,user_69@example.com,True
+TXN-0292,09/05/2023,Arjun Das,58,63335.47,Android Phone,user_291@example.com,  
+txn_0132,2024.02.19,diya  pillai,45,130474.61,  MacBook  ,user_131@gmail..com,1
+TXN-0301,2023-02-11,Vijay Kumar,61,35844.34,Android Phone,user_300@example.com,no
+TXN-0508,02-02-2024,Ananya Iyer,51,₹76881.98,IPHONE,user_507@example.com,True
+TXN-0327,01-26-2023,Siddharth Rao,65,unpaid,iPhone,user_326@example.com,FALSE
+TXN-0145,2024.01.06,Arjun Das,30,71729.84,iPhone,user_144@example.com,FALSE
+TXN-0486,"Jun 13, 2023",Arjun Das,,"$126,620.83",windows_pc,user_485@example.com,  
+TXN-0844,10-16-2023,Rahul Subramanian,29,105801.61,iPhone,user_843#domain.com,active
+TXN-0850,13/01/2023,Rahul Subramanian,59,147194.06,MacBook Pro,user_849@gmail..com,
+TXN-0136,2023.02.13,Arjun Das,34,103915.81,MacBook Pro,user_135@example.com,Pending
+TXN-0468,,Rahul Subramanian,50,63502.15,IPHONE,test_email,Pending
+TXN-0165,25/03/2023,Ananya Iyer,35,104990.30,macbook Air,user_164@example.com,Pending
+TXN-0029,"Jul 25, 2023",Aarav Sharma,,107344.53,iPhone,user_28@example.com,0
+ TXN-0599 ,2024-02-03,Vijay Kumar,36,27259.20,macbook Air,user_598@example.com,1
+TXN-0194,"Feb 29, 2024",Meera Krishnan,64,139082.89,iPhone, user_193@yahoo.com ,  
+TXN-0446,12-11-2023,Meera Krishnan,58,11251.08,IPHONE,user_445@example.com,True
+TXN-0679,01/03/2023,Aditya Nair,46,111201.37,iPhone,user_678@example.com,0
+TXN-0585,Urgent / Pending,Meera Krishnan,35 years,,iPhone,user_584@example.com,active
+TXN-0170,11-09-2023,Meera Krishnan,35 years,126559.19,macbook Air, user_169@yahoo.com ,  
+TXN-0536,,Vijay Kumar,37,122556.13,iPhone,user_535@example.com,yes
+TXN-0141,2023.06.23,Ananya Iyer,55,,Windows PC,user_140@example.com,  
+TXN-0174,04-10-2023,Priya Balan,65,110506.33,Android Phone,user_173@example.com,Pending
+TXN-0007,2023.11.24,Priya Balan,40,146150.20,windows_pc,user_6@example.com,FALSE
+TXN-0683,03/10/2023,Aarav Sharma,57,44122.48,Android Phone,user_682@example.com,0
+TXN-0530,31/07/2023,Aditya Nair,48,₹126579.46,Windows PC,user_529@example.com,yes
+TXN-0693,2023.02.12,Vijay Kumar,29,22260.39,Android Phone,user_692@example.com,  
+TXN-0074,2023.06.16,Rahul Subramanian,55,89042.57,android-phone,user_73@example.com,  
+TXN-0899,2024-02-30,Vijay Kumar,64,119529.56,MacBook Pro,user_898@example.com,1
+TXN-0922,NULL,DIYA PILLAI,,81285.80,,user_921@example.com,Pending
+TXN-0239,NULL,Ananya Iyer,59,6701.64,MacBook Pro,user_238@gmail..com,no
+TXN-0146,2023-06-20,Aarav Sharma,24,"$25,916.91",Windows PC,user_145@example.com,yes
+TXN-0906,,Dr. Diya Pillai PhD,61,144893.36,iPhone,user_905@example.com,0
+TXN-0235,"Feb 12, 2023",siddharth  rao,41,118505.33,macbook Air,user_234@example.com,Pending
+TXN-0221,03/09/2023,Ananya Iyer,33,₹48043.26,MacBook Pro,user_220@example.com,FALSE
+TXN-0215,02-04-2023,Arjun Das,64,62715.61,  MacBook  ,user_214@example.com,Pending
+TXN-0963,12-10-2023,Vijay Kumar,25,57565.85 USD,iPhone,user_962@example.com,1
+TXN-0133,2023.06.14,Meera Krishnan,41,90761.05,Android Phone,user_132@example.com,yes
+TXN-0804,12/08/2023,Aarav Sharma,59,20226.21,IPHONE,none@specified,True
+TXN-0617,"Apr 01, 2023",N/A,32,128539.12,iPhone,user_616@gmail..com,FALSE
+TXN-0846,"May 12, 2024",Priya Balan,65,19571.88,,user_845@example.com,FALSE
+TXN-0423,,Priya Balan,35,17247.14,, user_422@yahoo.com ,True
+TXN-0186,29/04/2024,Siddharth Rao,51,"$10,673.91",macbook Air,user_185@example.com,True
+ TXN-0042 ,"Aug 21, 2023",Meera Krishnan,53,131831.10,, user_41@yahoo.com ,1
+TXN-0651,03-14-2023,N/A,47,27035.30,macbook Air,user_650@example.com,0
+TXN-0109,,Meera Krishnan,52,72268.83,Windows PC,user_108@example.com,
+ TXN-0717 ,2024.05.02,Priya Balan!!!,39,"$75,704.38",MacBook Pro,user_716@example.com,  
+TXN-0057,02-25-2023,Priya Balan,60,"$39,921.70",Android Phone,user_56@example.com,yes
+TXN-0708,02/03/2023,Arjun Das,44,"$57,955.50",macbook Air,user_707@example.com,no
+TXN-0924,2024-04-14,Arjun Das,57,36480.91,MacBook Pro,user_923@example.com,active
+TXN-0994,11-23-2023,Priya Balan,?,12378.67,Windows PC,user_993@example.com,
+TXN-0914,"Feb 05, 2024",Dr. Diya Pillai PhD,48,55297.99,  MacBook  ,user_913@example.com,no
+txn_0436,,Aditya Nair,41,45083.97,Windows PC,user_435#domain.com,
+TXN-0025,,Aditya Nair,55,56202.41,windows_pc,user_24@example.com,Pending
+TXN-0480,24/09/2023,RAHUL SUBRAMANIAN,64,,macbook Air,user_479@gmail..com,no
+TXN-0583,2023-05-07,Siddharth Rao,26,₹143318.42,Windows PC,user_582@example.com,no
+TXN-0268,2023-08-16,priya  balan,50,56151.29,IPHONE,user_267@example.com,active
+TXN-0671,"May 15, 2023",Rahul Subramanian,26,35812.14,,user_670@example.com,0
+TXN-0892,2024-04-25,Meera Krishnan,35,4626.87,MacBook Pro,user_891@example.com,0
+TXN-0984,,Dr. Aarav Sharma PhD,44,61534.45,macbook Air,user_983@example.com,True
+TXN-0339,2023.06.23,Dr. Vijay Kumar PhD,28,133060.05,windows_pc,user_338@example.com,no
+TXN-0052,"Mar 23, 2024",arjun  das,,149191.28,android-phone, user_51@yahoo.com ,1
+TXN-0384,2023.05.19,Siddharth Rao,38,"$43,033.17",android-phone,user_383@example.com,Pending
+txn_0550,23/12/2023,Aarav Sharma,,108709.68,IPHONE,user_549@example.com,  
+TXN-0380,16/02/2024,Rahul Subramanian,28,unpaid,MacBook Pro,user_379@example.com,True
+TXN-0674,06-28-2023,Vijay Kumar,,93421.40,macbook Air,user_673@example.com,0
+TXN-0982,09/08/2023,Ananya Iyer,28,77833.95,IPHONE,user_981@gmail..com,no
+TXN-0265,09/09/2023,Vijay Kumar,60,124471.61,,user_264@example.com,0
+TXN-0573,05-13-2024,Siddharth Rao,36,5970.89,Windows PC,test_email,True
+TXN-0756,2023.03.09,Rahul Subramanian,26,26590.79,,user_755@example.com,FALSE
+TXN-0951,07-13-2023,Diya Pillai,39,46814.92,  MacBook  ,user_950@example.com,FALSE
+TXN-0445,2023-10-16,Diya Pillai,29,,Android Phone,user_444@example.com,FALSE
+TXN-0396,2023.02.15,Ananya Iyer,52,85293.08,IPHONE,user_395@example.com,  
+TXN-0552,2024-03-15,Ananya Iyer,43,29151.97,MacBook Pro,user_551@example.com,yes
+txn_0177,03/08/2023,N/A,33,112689.17,MacBook Pro,user_176@example.com,True
+TXN-0019,09/01/2023,Ananya Iyer!!!,27,128623.13 USD,iPhone,user_18@example.com,Pending
+TXN-0761,"Apr 28, 2023",Dr. Rahul Subramanian PhD,44,₹28390.54,  MacBook  ,user_760@example.com,Pending
+TXN-0533,2023-07-11,Aditya Nair,,₹11817.15,,user_532@example.com,yes
+TXN-0606,"Jun 03, 2023",Diya Pillai,41,44633.53,android-phone,user_605@example.com,Pending
+TXN-0619,05/02/2024,Ananya Iyer,58,137670.02 USD,windows_pc,user_618@example.com,1
+TXN-0368,"Dec 06, 2023",Siddharth Rao,42,3562.63,Android Phone,user_367@example.com,active
+TXN-0084,,Meera Krishnan,61,,android-phone,user_83@example.com,  
+TXN-0062,2023.11.26,Siddharth Rao,60,127060.82,MacBook Pro,test_email,1
+TXN-0500,2024.01.25,Ananya Iyer,37,"$92,865.16",MacBook Pro,user_499@example.com,FALSE
+TXN-0273,18/09/2023,Aditya Nair,39,74043.97,iPhone,user_272@example.com,active
+TXN-0286,04/04/2023,meera  krishnan,26,118931.22,macbook Air,user_285@gmail..com,True
+TXN-0361,26/02/2023,Aarav Sharma,63,65476.29,  MacBook  ,user_360@example.com,no
+TXN-0355,2023.05.16,vijay  kumar,64,95272.58,,user_354@example.com,0
+TXN-0939,04-15-2024,Ananya Iyer,30,24039.95,MacBook Pro,none@specified,1
+TXN-0279,2023-02-14,Aarav Sharma,27,112278.78,, user_278@yahoo.com ,1
+ TXN-0013 ,,Diya Pillai,-25,65951.90,MacBook Pro,user_12@example.com,yes
+TXN-0183,26/01/2024,aditya  nair,27,"$132,278.89",iPhone,user_182@example.com,
+ TXN-0369 ,10/06/2023,Aditya Nair,26,97390.94,Windows PC,user_368@example.com,active
+TXN-0637,12-07-2023,Ananya Iyer,50,"$116,134.68",IPHONE,user_636@example.com,0
+TXN-0656,,Priya Balan,49,₹33722.25,  MacBook  ,user_655#domain.com,0
+TXN-0224,10/02/2024,Arjun Das,-25,96650.28,,user_223@example.com,  
+TXN-0741,,Ananya Iyer,,78358.55,windows_pc,user_740@example.com,  
+TXN-0744,"Mar 22, 2023",N/A,36,145191.31,android-phone,user_743@example.com,Pending
+txn_0721,19/03/2024,Meera Krishnan,,96588.23,windows_pc,user_720@gmail..com,  
+TXN-0582,2023.02.13,Vijay Kumar,45,72364.03,  MacBook  ,user_581@example.com,0
+TXN-0487,"Jun 03, 2023",Meera Krishnan,35,4324.36,Windows PC,user_486@example.com,
+,NULL,Priya Balan,32,61577.16,macbook Air,user_542@example.com,0
+TXN-0466,27/06/2023,siddharth  rao,35,50474.78,Android Phone,user_465@example.com,True
+TXN-0622,07/10/2023,Dr. Vijay Kumar PhD,24,37253.67,IPHONE,user_621@example.com,no
+TXN-0496,2023.02.17,Meera Krishnan,42,119480.94,macbook Air,user_495@example.com,0
+TXN-0821,09-19-2023,Aditya Nair,,90581.30,,user_820#domain.com,no
+TXN-0668,2024-01-21,Aditya Nair,27,88253.70,iPhone,user_667@example.com,1
+TXN-0457,2023.12.16,Aarav Sharma,35 years,56082.22,android-phone,user_456@example.com,no
+TXN-0394,04-13-2023,N/A,26,83305.86,IPHONE,user_393@example.com,  
+TXN-0676,12-28-2023,Priya Balan,57,23769.01,Windows PC,user_675@example.com,  
+TXN-0714,09-30-2023,Diya Pillai,32,11905.08,Android Phone,user_713@example.com,yes
+txn_0376,2023.06.28,Dr. Vijay Kumar PhD,33,"$125,014.16",,user_375@example.com,0
+TXN-0413,"Nov 24, 2023",Diya Pillai,240,1968.20,IPHONE,user_412@example.com,Pending
+TXN-0075,2024-03-28,Aditya Nair,35,125742.29,iPhone,user_74@example.com,active
+TXN-0935,,Arjun Das,41,149309.46,iPhone,user_934@example.com,True
+TXN-0501,14/10/2023,N/A,34,,iPhone,none@specified,  
+TXN-0597,"Mar 18, 2024",Rahul Subramanian,,107093.36,IPHONE,user_596@example.com,Pending
+TXN-0115,2023-12-02,Siddharth Rao,41,15259.73,MacBook Pro,user_114@example.com,True
+TXN-0418,,DIYA PILLAI,50,25675.28,iPhone,user_417@example.com,
+ TXN-0090 ,09/08/2023,Arjun Das,,₹128029.13,android-phone,user_89@example.com,Pending
+TXN-0977,,Vijay Kumar,24,unpaid,windows_pc,user_976@example.com,no
+TXN-0920,09-29-2023,Siddharth Rao,29,104631.25,iPhone,user_919@example.com,0
+TXN-0847,02/02/2024,Dr. Aarav Sharma PhD,52,106330.66,,user_846@example.com,Pending
+TXN-0732,2024-03-20,Dr. Aditya Nair PhD,26,95085.95,macbook Air,user_731@example.com,  
+TXN-0012,2023.03.17,Arjun Das,54,18662.20,Android Phone,user_11@example.com,FALSE
+TXN-0397,2024-01-14,Vijay Kumar,240,₹20283.50,Android Phone,user_396@example.com,FALSE
+TXN-0569,"Oct 18, 2023",Priya Balan,56,29225.20,android-phone,test_email,Pending
+TXN-0043,02-18-2023,Priya Balan,22,48417.17 USD,MacBook Pro,user_42@example.com,True
+TXN-0168,,aarav  sharma,40,33892.10,macbook Air,user_167@example.com,no
+TXN-0417,24/04/2024,meera  krishnan,41,12277.19,android-phone,user_416@example.com,active
+TXN-0804,12/08/2023,Aarav Sharma,59,20226.21,IPHONE,none@specified,True
+TXN-0427,11-24-2023,Vijay Kumar,?,93391.69,Windows PC,user_426@example.com,active
+TXN-0936,2023.01.11,Aarav Sharma,48,29863.36,iPhone,user_935@example.com,FALSE
+TXN-0328,"Mar 27, 2024",Diya Pillai,52,5243.56,MacBook Pro,user_327@example.com,0
+ TXN-0729 ,01-19-2024,Arjun Das,55,98055.04,MacBook Pro,user_728@example.com,
+TXN-0653,"Jun 28, 2023",Vijay Kumar,54,69466.13,iPhone,test_email,
+TXN-0258,2024-02-30,Vijay Kumar,240,53330.49,Windows PC,user_257@example.com,Pending
+TXN-0336,2023.11.16,meera  krishnan,49,10222.51 USD,windows_pc,user_335@example.com,  
+TXN-0016,NULL,Siddharth Rao,50,29553.38,Android Phone,user_15@example.com,0
+ TXN-0685 ,2024-02-30,Aditya Nair,,37247.03,macbook Air,user_684@example.com,True
+ TXN-0325 ,"Sep 16, 2023",N/A,52,14537.19,IPHONE,user_324@example.com,Pending
+TXN-0720,2023-07-30,Siddharth Rao,31,56724.27,macbook Air,user_719@example.com,0
+TXN-0223,,Ananya Iyer,35 years,₹114167.95,macbook Air,user_222@example.com,0
+TXN-0180,"Nov 25, 2023",Ananya Iyer,41,63098.77 USD,android-phone,user_179@example.com,FALSE
+TXN-0100,NULL,Rahul Subramanian,54,64153.19,IPHONE,user_99@example.com,no
+TXN-0522,"Feb 25, 2024",Priya Balan,55,₹67342.67,windows_pc,user_521@example.com,active
+TXN-0023,"Feb 25, 2023",N/A,35 years,44381.07 USD,iPhone,user_22@example.com,0
+TXN-0357,2023.03.29,Diya Pillai,62,"$111,190.55",Android Phone,user_356@example.com,no
+TXN-0751,29/11/2023,Rahul Subramanian,,60418.27,Windows PC,user_750@example.com,  
+TXN-0915,2023.10.17,Diya Pillai,26,64150.33,Windows PC,user_914@example.com,0
+TXN-0079,"Aug 15, 2023",Diya Pillai,60,2064.33,macbook Air,user_78@example.com,0
+TXN-0341,"Sep 18, 2023",Rahul Subramanian,65,37852.21,Windows PC,user_340@example.com,
+TXN-0432,15/02/2024,Meera Krishnan!!!,61,₹20177.76,Android Phone,user_431@example.com,0
+TXN-0588,NULL,Diya Pillai,-25,75968.53,android-phone,user_587@example.com,Pending
+TXN-0886,NULL,Aarav Sharma,61,99187.78,  MacBook  ,user_885@example.com,active
+TXN-0204,2023.01.09,Aditya Nair,63,15975.43,macbook Air,user_203@example.com,  
+TXN-0781,2023.11.07,Siddharth Rao,54,₹54177.47,android-phone,user_780@example.com,Pending
+TXN-0094,,Vijay Kumar,48,65535.22,windows_pc,user_93@gmail..com,True
+TXN-0595,NULL,Priya Balan,48,44041.63,android-phone,user_594@example.com,True
+TXN-0069,05/02/2023,Aditya Nair,49,86133.44,IPHONE,user_68@example.com,
+TXN-0663,27/07/2023,Priya Balan,48,145888.20,windows_pc,user_662@example.com,
+TXN-0285,2024.03.25,Ananya Iyer,64,46325.45,Android Phone,user_284@example.com,0
+txn_0853,01-08-2024,Dr. Rahul Subramanian PhD,23,105420.77,Windows PC,user_852@example.com,  
+TXN-0435,12-27-2023,Diya Pillai,,₹102021.75,Android Phone,user_434@example.com,no
+TXN-0154,09-18-2023,Meera Krishnan,41,110877.38,MacBook Pro,user_153@example.com,
+TXN-0076,Urgent / Pending,Priya Balan,28,unpaid,macbook Air,user_75@example.com,Pending
+TXN-0778,2024.01.05,Vijay Kumar,65,149917.44,android-phone,test_email,
+TXN-0447,07-22-2023,Rahul Subramanian,42,30010.25,android-phone,user_446@example.com,  
+TXN-0189,11/07/2023,Siddharth Rao!!!,51,51840.57,macbook Air,user_188@example.com,
+TXN-0272,31/12/2023,N/A,37,66684.18,android-phone,user_271@gmail..com,True
+TXN-0237,26/02/2024,ANANYA IYER,49,117496.70,,user_236@example.com,1
+TXN-0488,"Oct 03, 2023",Priya Balan!!!,43,57584.02,iPhone,user_487@example.com,  
+TXN-0560,2024-04-15,ANANYA IYER,65,61221.56,Windows PC,user_559@example.com,active
+TXN-0118,2024.01.25,Siddharth Rao,,₹76112.80,  MacBook  ,user_117@example.com,0
+TXN-0868,,Dr. Meera Krishnan PhD,49,unpaid,android-phone,user_867@example.com,active
+TXN-0513,13/06/2023,Meera Krishnan,39,74825.31,  MacBook  ,test_email,FALSE
+ TXN-0590 ,07-04-2023,Meera Krishnan,35,"$22,433.00",iPhone,user_589@example.com,active
+TXN-0631,2023.09.03,Diya Pillai,56,"$101,646.73",windows_pc,user_630@example.com,  
+ TXN-0127 ,2023-01-20,Meera Krishnan,29,,MacBook Pro,user_126@example.com,Pending
+TXN-0117,"Sep 10, 2023",Rahul Subramanian,56,39123.57,MacBook Pro,user_116@example.com,FALSE
+TXN-0474,04/10/2023,Vijay Kumar,22,142945.15,  MacBook  ,user_473@example.com,active
+txn_0738,2023.03.08,Arjun Das,60,"$115,920.78",Windows PC,user_737@example.com,active
+TXN-0058,2023-07-08,Siddharth Rao,27,66141.05,Android Phone,user_57@example.com,yes
+TXN-0719,2024-02-30,Priya Balan,35 years,141114.44,macbook Air,user_718@example.com,  
+ TXN-0967 ,,Vijay Kumar,45,106370.02,  MacBook  ,user_966@example.com,0
+TXN-0370,09-30-2023,N/A,25,"$72,107.77",Windows PC,user_369@example.com,active
+TXN-0269,05-10-2024,meera  krishnan,36,88730.24,IPHONE,user_268@example.com,
+,"Feb 17, 2023",Aarav Sharma,27,112476.24,macbook Air,user_46@example.com,0
+TXN-0350,2023.12.29,Vijay Kumar,-25,124610.61,MacBook Pro,user_349@example.com,0
+TXN-0196,2023-01-03,Siddharth Rao,23,17706.95,macbook Air,user_195@example.com,  
+TXN-0103,12-20-2023,Meera Krishnan,47,7217.67,  MacBook  ,user_102@example.com,
+TXN-0887,NULL,Rahul Subramanian,27,129896.56,IPHONE,user_886@example.com,True
+TXN-0790,16/12/2023,Siddharth Rao,46,29165.12,MacBook Pro,user_789@example.com,FALSE
+TXN-0784,27/02/2023,Vijay Kumar,240,133330.07,Windows PC,user_783@example.com,0
+TXN-0264,11-10-2023,Rahul Subramanian,48,15781.04,Android Phone,none@specified,0
+TXN-0444,2024-02-30,Ananya Iyer,65,50035.55,MacBook Pro,user_443@example.com,yes
+,14/05/2024,Rahul Subramanian,42,130485.74,MacBook Pro,user_945@example.com,active
+TXN-0305,2023.11.18,Siddharth Rao,61,106432.79,Windows PC,user_304@example.com,
+TXN-0342,2023-01-24,Meera Krishnan,65,118039.98,android-phone,user_341@example.com,  
+TXN-0639,"Oct 16, 2023",Aditya Nair,24,36695.18,iPhone,user_638@example.com,
+,02-24-2023,N/A,43,unpaid,IPHONE,user_313@example.com,active
+TXN-0150,02-13-2023,N/A,60,,Android Phone, user_149@yahoo.com ,no
+ TXN-0125 ,2023.06.30,Aditya Nair,32,145047.90,iPhone,user_124@example.com,FALSE
+TXN-0834,"May 08, 2023",Vijay Kumar,24,147001.62,MacBook Pro,user_833@example.com,0
+TXN-0873,2024-02-30,Diya Pillai,28,102133.85,android-phone,user_872@example.com,
+TXN-0051,2023-12-10,Diya Pillai,35,134029.62,iPhone,user_50@example.com,
+,2024-01-07,Aarav Sharma,25,57767.15,android-phone,user_353@example.com,yes
+TXN-0985,13/05/2024,Priya Balan,57,136739.94,windows_pc,user_984@example.com,1
+TXN-0143,2023-06-21,priya  balan,?,118753.82,  MacBook  ,user_142@example.com,FALSE
+TXN-0471,2023.08.17,Aditya Nair,53,,,user_470@example.com,True
+TXN-0400,"Jul 23, 2023",aarav  sharma,62,117599.31,Windows PC,user_399@example.com,
+TXN-0666,2023.08.19,Vijay Kumar,48,127911.34,Android Phone,none@specified,Pending
+TXN-0321,08/04/2023,Priya Balan,44,129115.75,,user_320@gmail..com,0
+ TXN-0020 ,"Mar 06, 2023",Diya Pillai,63,149286.87,Windows PC,user_19@example.com,no
+txn_0859,04-03-2024,Diya Pillai,49,102071.49,macbook Air,user_858@example.com,FALSE
+TXN-0838,27/01/2023,Vijay Kumar,24,60022.79,macbook Air,user_837@example.com,Pending
+TXN-0877,2023.06.05,Dr. Siddharth Rao PhD,64,₹146154.84,  MacBook  ,user_876@example.com,active
+TXN-0408,Urgent / Pending,N/A,41,41976.86,MacBook Pro,user_407#domain.com,0
+TXN-0538,,Priya Balan,48,149701.76,  MacBook  ,user_537@example.com,True
+TXN-0661,10/10/2023,Siddharth Rao,35 years,90460.43,IPHONE,user_660@example.com,no
+TXN-0039,2024.03.12,Arjun Das,240,145247.02,macbook Air,user_38@example.com,yes
+TXN-0176,"May 25, 2023",Ananya Iyer,27,93730.33,  MacBook  ,user_175@example.com,
+TXN-0246,,Meera Krishnan,44,89364.74,Android Phone,user_245@example.com,yes
+TXN-0880,NULL,Priya Balan!!!,62,145495.39,  MacBook  ,user_879@example.com,
+TXN-0712,2024-02-30,Meera Krishnan,62,70191.57,iPhone,test_email,  
+TXN-0802,2023.07.20,Vijay Kumar,27,78584.34 USD,IPHONE, user_801@yahoo.com ,0
+TXN-0912,2024.02.15,Dr. Aditya Nair PhD,?,127895.85,iPhone,user_911@example.com,
+TXN-0155,,Aditya Nair,,83680.74,Android Phone,user_154@example.com,Pending
+txn_0288,23/09/2023,Priya Balan,41,"$134,264.89",Android Phone,user_287@example.com,active
+TXN-0626,"Feb 12, 2024",Aarav Sharma,29,44969.08 USD,iPhone,user_625@gmail..com,1
+TXN-0889,,Ananya Iyer,35 years,55857.99,,user_888@gmail..com,1
+TXN-0570,10-04-2023,Priya Balan,-25,85944.05 USD,macbook Air,none@specified,True
+TXN-0791,2024-05-03,Aarav Sharma,60,143683.04,IPHONE,user_790@example.com,
+TXN-0018,08/02/2024,arjun  das,34,74732.47,,user_17@example.com,no
+TXN-0128,2023-05-27,DIYA PILLAI,41,130896.49,android-phone,user_127@example.com,
+TXN-0323,"Jun 07, 2023",Aarav Sharma,29,15981.29 USD,Android Phone,user_322@example.com,1
+TXN-0256,07-09-2023,Vijay Kumar,31,134277.68,macbook Air, user_255@yahoo.com ,no
+TXN-0701,02-26-2024,Vijay Kumar,58,95778.02,  MacBook  ,user_700@example.com,FALSE
+TXN-0982,09/08/2023,Ananya Iyer,28,77833.95,IPHONE,user_981@gmail..com,no
+TXN-0191,2023-06-13,Arjun Das,?,41003.06,  MacBook  ,user_190@example.com,Pending
+TXN-0116,Urgent / Pending,N/A,65,85789.77,android-phone,user_115@example.com,active
+txn_0657,,meera  krishnan,45,90311.92,IPHONE,user_656@example.com,no
+TXN-0607,07-04-2023,Diya Pillai,41,105069.10,android-phone,test_email,Pending
+TXN-0181,2023-10-11,Aditya Nair,34,46383.75,,user_180#domain.com,Pending
+TXN-0302,2024.01.30,Vijay Kumar,,81700.20,IPHONE, user_301@yahoo.com ,yes
+TXN-0807,2023.08.21,N/A,43,26206.68,windows_pc,user_806@example.com,FALSE
+TXN-0758,,Diya Pillai,29,,windows_pc,none@specified,active
+TXN-0815,2024-02-30,Aditya Nair,53,39535.50,MacBook Pro,user_814@example.com,  
+TXN-0782,07-20-2023,Arjun Das,29,16106.84,android-phone,user_781@example.com,yes
+TXN-0706,"Jan 17, 2023",Dr. Siddharth Rao PhD,25,114336.40,  MacBook  ,user_705@example.com,no
+txn_0518,01/06/2023,Priya Balan,62,46733.00,Windows PC,user_517@example.com,active
+TXN-0373,02/06/2023,Priya Balan,38,114654.95,,user_372@example.com,  
+TXN-0046,,Rahul Subramanian,51,130905.98 USD,iPhone,user_45@example.com,
+TXN-0964,16/05/2023,SIDDHARTH RAO,64,9066.73,MacBook Pro,user_963@example.com,
+TXN-0158,12/03/2023,Meera Krishnan,40,102185.95,,user_157@example.com,  
+TXN-0941,2024-02-30,Rahul Subramanian,29,"$91,016.96",  MacBook  ,user_940@example.com,  
+TXN-0172,05-03-2023,Aarav Sharma,25,107054.26,windows_pc,user_171@example.com,no
+TXN-0017,2023-03-09,Meera Krishnan,,117579.85,windows_pc,user_16@example.com,yes
+TXN-0512,"Jan 05, 2024",Ananya Iyer,,104543.19,IPHONE,user_511@example.com,active
+TXN-0049,20/02/2024,Arjun Das,57,92404.41,  MacBook  ,user_48@example.com,1
+TXN-0192,11-29-2023,Aarav Sharma,38,unpaid,Android Phone,user_191@example.com,yes
+TXN-0893,2023-05-13,N/A,26,86407.64,MacBook Pro,user_892@example.com,no
+TXN-0516,,ANANYA IYER,43,"$33,865.90",macbook Air,user_515@example.com,1
+TXN-0947,"Aug 12, 2023",Vijay Kumar,59,2668.16,IPHONE,user_946@example.com,
+TXN-0731,09-07-2023,Siddharth Rao!!!,29,6335.21,MacBook Pro,user_730@example.com,yes
+TXN-0481,2023-05-21,N/A,25,7733.52,Android Phone,user_480@example.com,active
+TXN-0284,2023.12.15,Ananya Iyer,35 years,unpaid,Windows PC,user_283@example.com,1
+TXN-0938,03-08-2023,Arjun Das,27,91215.97,Android Phone,user_937@example.com,
+TXN-0698,"Jan 16, 2024",Meera Krishnan!!!,38,108585.20,windows_pc,user_697@example.com,Pending
+TXN-0226,2024.02.22,Aditya Nair,63,107349.53,Android Phone,user_225@example.com,no
+txn_0027,2023-11-26,Vijay Kumar,32,"$21,021.33",MacBook Pro,user_26@example.com,no
+TXN-0830,16/04/2024,Arjun Das,34,55919.59 USD,iPhone,user_829@example.com,  
+TXN-0438,2023.04.14,Aarav Sharma,32,35887.45,Android Phone,user_437@example.com,
+TXN-0816,2023-05-18,Aarav Sharma,31,134749.67,IPHONE,user_815@example.com,FALSE
+TXN-0365,"Apr 16, 2024",Diya Pillai,26,68564.72,iPhone,user_364@example.com,True
+TXN-0230,2024-02-30,Diya Pillai,31,111713.52,,user_229@example.com,1
+TXN-0038,NULL,Rahul Subramanian,-25,59931.19,Windows PC,test_email,True
+TXN-0670,16/06/2023,Vijay Kumar,55,88615.53,iPhone,user_669@example.com,0
+TXN-0710,2024.03.16,Arjun Das,62,89763.49,  MacBook  ,user_709@example.com,no
+TXN-0375,"Dec 20, 2023",Ananya Iyer,34,12735.90,IPHONE,user_374@gmail..com,  
+txn_0470,2023-02-04,Priya Balan!!!,24,7478.67,  MacBook  ,user_469@gmail..com,active
+TXN-0138,2023.08.13,Aarav Sharma,52,3265.23 USD,iPhone,user_137@example.com,True
+TXN-0688,"Jan 05, 2023",Diya Pillai,52,108262.07,Windows PC,user_687#domain.com,FALSE
+TXN-0904,04-06-2023,Arjun Das,51,107406.01,MacBook Pro,user_903@example.com,0
+TXN-0983,11/08/2023,Diya Pillai!!!,38,133346.44,IPHONE,user_982@example.com,yes
+TXN-0913,07-15-2023,Arjun Das,41,"$147,013.36",  MacBook  ,user_912#domain.com,  
+TXN-0195,"Mar 13, 2023",Ananya Iyer,42,69222.05,iPhone,user_194@example.com,Pending
+TXN-0908,2024.03.27,Aditya Nair!!!,62,27975.12,IPHONE,user_907@example.com,Pending
+TXN-0918,01-16-2023,Ananya Iyer,38,117681.02,iPhone,user_917@example.com,FALSE
+TXN-0504,2023-04-08,Siddharth Rao,25,127903.67,MacBook Pro,none@specified,1
+TXN-0330,03-27-2024,Ananya Iyer,22,62628.33,android-phone,user_329@example.com,yes
+ TXN-0883 ,2023-03-31,Rahul Subramanian,38,103572.19,windows_pc,user_882@gmail..com,0
+TXN-0580,"Oct 11, 2023",Siddharth Rao!!!,65,62336.45,android-phone,user_579@example.com,FALSE
+txn_0161,2024.03.03,Arjun Das,-25,48198.84,MacBook Pro,test_email,FALSE
+TXN-0681,02/11/2023,aditya  nair,,114361.61,  MacBook  ,user_680@example.com,1
+TXN-0163,2024.01.28,Priya Balan!!!,22,71632.95,macbook Air,user_162@example.com,Pending
+TXN-0747,04/06/2023,Arjun Das,35 years,109474.77,macbook Air,user_746@example.com,1
+TXN-0153,NULL,Aditya Nair,-25,146947.67,Android Phone,test_email,
+TXN-0894,,Siddharth Rao,41,112109.59,Windows PC,user_893@example.com,1
+ TXN-0827 ,2023-01-02,Siddharth Rao,28,14247.29 USD,macbook Air,user_826@example.com,1
+TXN-0803,2024-03-03,siddharth  rao,-25,128692.30,  MacBook  ,user_802@example.com,1
+TXN-0112,05/05/2024,Arjun Das,51,45168.02,  MacBook  ,user_111@example.com,no
+TXN-0227,19/01/2023,Vijay Kumar,27,78543.26,  MacBook  ,test_email,FALSE
+TXN-0733,08-23-2023,Ananya Iyer,-25,104983.90,android-phone,user_732@gmail..com,
+TXN-0104,NULL,Vijay Kumar,61,70172.77,  MacBook  ,user_103@example.com,FALSE
+TXN-0422,21/12/2023,Vijay Kumar,24,50944.55,Windows PC,user_421@example.com,active
+txn_0420,2023.06.04,Rahul Subramanian,,₹72619.26,Windows PC,test_email,True
+TXN-0998,NULL,Arjun Das,30,137209.97 USD,Windows PC,user_997@example.com,  
+TXN-0587,06-12-2023,Meera Krishnan,26,140946.18,macbook Air,user_586@example.com,FALSE
+TXN-0828,07/01/2023,Aditya Nair,64,₹111398.62,iPhone,user_827@example.com,1
+TXN-0673,"Nov 09, 2023",Arjun Das,27,111001.63,,user_672@example.com,1
+TXN-0120,11-16-2023,Vijay Kumar,44,unpaid,android-phone,user_119@example.com,FALSE
+TXN-0054,11-04-2023,Priya Balan,24,99024.19,macbook Air,user_53@example.com,Pending
+TXN-0152,2023.12.10,Vijay Kumar,24,"$95,005.17",windows_pc,user_151@example.com,no
+TXN-0404,2023.11.25,N/A,35 years,68744.48,MacBook Pro,none@specified,1
+TXN-0910,03/08/2023,Meera Krishnan,51,20368.25 USD,MacBook Pro,user_909@example.com,0
+txn_0208,2023-12-09,Arjun Das,37,37703.41,IPHONE,user_207@example.com,FALSE
+txn_0659,13/12/2023,Siddharth Rao,41,148591.06,iPhone,user_658@example.com,active
+TXN-0897,NULL,Meera Krishnan,48,86227.97,Windows PC,user_896@example.com,0
+TXN-0810,2023-12-26,Siddharth Rao,53,,macbook Air, user_809@yahoo.com ,
+TXN-0009,2023.03.06,Aarav Sharma,25,unpaid,,user_8#domain.com,yes
+TXN-0929,02-17-2024,Priya Balan,39,12265.18,,user_928@example.com,0
+TXN-0037,"Nov 06, 2023",Vijay Kumar,33,93405.28,Windows PC,none@specified,
+TXN-0453,03/04/2023,ananya  iyer,45,144009.53,macbook Air,user_452@example.com,FALSE
+txn_0652,22/08/2023,Aditya Nair,42,48256.89,Windows PC,user_651@example.com,True
+TXN-0254,,Siddharth Rao,34,147463.05,android-phone,user_253@example.com,active
+TXN-0304,2023-11-24,Priya Balan,39,97312.56,,user_303@example.com,Pending
+TXN-0794,2023-01-21,Meera Krishnan,48,49638.49,iPhone,user_793@example.com,Pending
+TXN-0572,2023-12-19,Aditya Nair,35,₹16722.25,android-phone,user_571@example.com,active
+,25/08/2023,Aditya Nair,?,126424.58,windows_pc,user_623@example.com,1
+TXN-0755,,Rahul Subramanian,-25,98592.93,windows_pc,user_754@example.com,
+TXN-0765,21/02/2024,Arjun Das,44,25919.99,Android Phone,user_764@example.com,yes
+TXN-0263,"May 14, 2023",Dr. Vijay Kumar PhD,35 years,123639.09,Windows PC,user_262@example.com,0
+TXN-0611,"Apr 30, 2024",Arjun Das,?,₹16857.86,android-phone,user_610@example.com,no
+ TXN-0298 ,2024.01.04,N/A,62,68022.60,  MacBook  ,user_297@example.com,1
+TXN-0415,NULL,Vijay Kumar,46,4975.83,Windows PC,user_414@example.com,active
+TXN-0151,11-26-2023,Diya Pillai,43,8777.69,Android Phone,user_150@example.com,no
+TXN-0836,10-20-2023,Arjun Das,42,119729.02,MacBook Pro,user_835@example.com,True
+TXN-0641,NULL,Priya Balan,41,51363.29,MacBook Pro,user_640@example.com,active
+TXN-0944,"Jul 11, 2023",Priya Balan,27,₹96458.59,MacBook Pro,user_943@example.com,  
+TXN-0551,2024-02-28,Aarav Sharma!!!,46,119037.04,  MacBook  ,test_email,yes
+TXN-0856,31/01/2023,Aarav Sharma!!!,59,147677.17,IPHONE,user_855@example.com,
+TXN-0489,04-26-2023,Dr. Aarav Sharma PhD,51,17712.63,iPhone,user_488@example.com,FALSE
+TXN-0711,2023.03.26,Priya Balan,54,unpaid,  MacBook  ,none@specified,0
+TXN-0148,"Dec 02, 2023",Vijay Kumar,-25,71357.86,Windows PC,user_147@example.com,1
+TXN-0147,03-14-2023,Vijay Kumar,55,unpaid,android-phone,user_146@example.com,  
+TXN-0966,2023-02-25,N/A,62,38268.19,  MacBook  ,user_965@example.com,FALSE
+TXN-0989,"Mar 06, 2024",Arjun Das,63,123716.56,windows_pc,user_988@example.com,Pending
+TXN-0787,04-23-2024,Siddharth Rao,40,122479.79,macbook Air,user_786@example.com,  
+TXN-0660,15/01/2024,Rahul Subramanian!!!,57,26713.53,MacBook Pro,user_659@example.com,Pending
+TXN-0349,2023.09.17,Diya Pillai,35 years,1349.46,android-phone,user_348@example.com,FALSE
+TXN-0464,2024.01.04,Aarav Sharma,40,100577.75,windows_pc,user_463@example.com,no
+TXN-0326,2023.04.21,Vijay Kumar,56,61803.03,Windows PC,user_325@example.com,yes
+TXN-0187,03-28-2024,Vijay Kumar,35 years,93093.55,iPhone,user_186@example.com,1
+TXN-0124,06-05-2023,Meera Krishnan,62,94023.17,MacBook Pro,user_123@example.com,  
+TXN-0907,05-06-2023,N/A,49,28083.24,android-phone,user_906@example.com,yes
+txn_0609,"Apr 11, 2023",Aditya Nair!!!,45,148867.59,android-phone,user_608@example.com,no
+TXN-0144,"Oct 13, 2023",Priya Balan,55,,windows_pc,test_email,no
+TXN-0752,,Ananya Iyer,-25,148069.40,iPhone,user_751@example.com,1
+TXN-0960,03-14-2023,Priya Balan,23,72157.31,IPHONE,test_email,yes
+txn_0198,2023.03.18,Diya Pillai,-25,142170.69,iPhone,user_197@example.com,1
+TXN-0610,NULL,aditya  nair,25,149303.08,,user_609@example.com,yes
+TXN-0280,"Jan 03, 2024",Aarav Sharma,?,56156.93,iPhone,user_279@example.com,True
+TXN-0294,2024-02-30,Siddharth Rao,40,117464.89,macbook Air,user_293@example.com,no
+TXN-0884,"Mar 13, 2024",Ananya Iyer,,98336.36,android-phone,user_883@example.com,FALSE
+TXN-0401,01-19-2024,Dr. Meera Krishnan PhD,63,,Windows PC,user_400@example.com,no
+TXN-0123,,Vijay Kumar,43,68904.00,  MacBook  ,user_122@example.com,  
+txn_0184,2024.04.08,Arjun Das,51,24800.91,Windows PC,user_183@example.com,
+TXN-0203,"Feb 26, 2023",Vijay Kumar,28,76477.66,windows_pc,user_202@example.com,1
+TXN-0439,03-26-2023,Meera Krishnan,26,99367.11,android-phone,user_438@example.com,yes
+TXN-0247,2023.07.06,Arjun Das,-25,116394.79,,user_246@example.com,yes
+ TXN-0416 ,05/04/2023,diya  pillai,35 years,146740.64,,user_415@example.com,True
+TXN-0824,Urgent / Pending,Diya Pillai,46,96744.99,  MacBook  ,user_823@example.com,active
+TXN-0931,16/10/2023,Aditya Nair,24,60729.14,MacBook Pro,test_email,0
+TXN-0961,05-02-2023,Ananya Iyer,60,2613.72 USD,iPhone,user_960@example.com,active
+TXN-0955,"Oct 21, 2023",Ananya Iyer,29,134609.70,,user_954@example.com,yes
+TXN-0942,2023-03-14,Siddharth Rao,59,₹19744.08,IPHONE,user_941@example.com,1
+TXN-0130,"Sep 17, 2023",Priya Balan,39,"$18,562.17",MacBook Pro,user_129@example.com,no
+ TXN-0638 ,Urgent / Pending,Meera Krishnan,29,139408.53,IPHONE,user_637@example.com,yes
+TXN-0403,02-24-2023,Rahul Subramanian,43,38835.03,macbook Air, user_402@yahoo.com ,active
+TXN-0397,2024-01-14,Vijay Kumar,240,₹20283.50,Android Phone,user_396@example.com,FALSE
+ TXN-0818 ,2023.05.20,Aarav Sharma,240,109141.80,iPhone,user_817@example.com,
+TXN-0736,09-11-2023,Dr. Diya Pillai PhD,45,90800.02,Windows PC,user_735@example.com,1
+TXN-0968,03/08/2023,Priya Balan,65,,IPHONE,user_967@example.com,no
+TXN-0220,"Dec 17, 2023",Meera Krishnan,28,141614.08,android-phone,user_219@example.com,1
+TXN-0642,NULL,N/A,,,iPhone,user_641@example.com,True
+TXN-0970,2023-07-12,Rahul Subramanian,50,64851.73,MacBook Pro,user_969@example.com,True
+TXN-0800,2023-06-08,Ananya Iyer,28,110460.66,macbook Air,user_799@example.com,yes
+TXN-0855,"May 02, 2023",Meera Krishnan,44,unpaid,windows_pc,user_854@example.com,True
+TXN-0975,2023-05-31,Diya Pillai,62,₹13026.32,  MacBook  ,user_974@example.com,True
+TXN-0625,2023-05-30,Arjun Das,32,unpaid,MacBook Pro,test_email,yes
+TXN-0891,07-25-2023,Arjun Das,55,100716.45,windows_pc,user_890@example.com,0
+TXN-0808,08/06/2023,N/A,47,18413.42,IPHONE,user_807@example.com,Pending
+TXN-0387,2023.12.09,Dr. Aditya Nair PhD,22,108010.20,android-phone,none@specified,0
+TXN-0848,07/10/2023,Meera Krishnan,32,124508.76,android-phone,user_847@example.com,  
+TXN-0510,2023.07.04,Siddharth Rao,39,75390.11,IPHONE, user_509@yahoo.com ,active
+TXN-0268,2023-08-16,priya  balan,50,56151.29,IPHONE,user_267@example.com,active
+TXN-0869,2024.02.04,Aarav Sharma,48,44513.29,Android Phone,user_868@example.com,True
+TXN-0442,2024.04.05,Siddharth Rao,61,51735.26,,user_441@example.com,no
+TXN-0497,2023-04-08,Rahul Subramanian,65,,Windows PC,user_496@example.com,active
+TXN-0113,03-16-2023,Vijay Kumar,48,"$12,588.50",Windows PC, user_112@yahoo.com ,no
+TXN-0692,"Aug 01, 2023",Dr. Vijay Kumar PhD,63,₹29839.26,IPHONE,user_691@example.com,FALSE
+TXN-0233,"Apr 06, 2023",DIYA PILLAI,50,105404.06,Windows PC,user_232@example.com,0
+TXN-0923,2023.05.17,Meera Krishnan,41,,iPhone,user_922@example.com,yes
+TXN-0608,"Jan 05, 2024",Vijay Kumar,38,33527.92,MacBook Pro,none@specified,
+TXN-0672,11-24-2023,Priya Balan,59,134640.83,windows_pc, user_671@yahoo.com ,yes
+TXN-0374,06-02-2023,Aditya Nair,26,118351.13,Android Phone,user_373@example.com,True
+,"Dec 03, 2023",Arjun Das,40,50608.86,IPHONE,test_email,1
+TXN-0896,16/08/2023,Priya Balan,56,97116.16,,user_895@example.com,True
+TXN-0234,2023.07.08,Priya Balan,65,31724.27,macbook Air,user_233@example.com,  
+TXN-0833,"Jan 01, 2024",Siddharth Rao,56,₹80897.96,IPHONE,user_832@example.com,1
+TXN-0677,2023-10-30,Aarav Sharma!!!,58,,MacBook Pro,user_676@example.com,Pending
+TXN-0318,2024.03.18,Siddharth Rao,37,60987.82,windows_pc,user_317@example.com,0
+TXN-0649,2024-04-16,Dr. Aditya Nair PhD,50,140911.81,MacBook Pro,user_648@example.com,yes
+TXN-0411,2023.06.01,Siddharth Rao,62,34613.16,macbook Air,user_410@example.com,
+TXN-0953,Urgent / Pending,Rahul Subramanian!!!,25,105427.93,IPHONE,user_952@example.com,active
+TXN-0710,2024.03.16,Arjun Das,62,89763.49,  MacBook  ,user_709@example.com,no
+,2024-02-30,Aditya Nair,27,19499.41,macbook Air,user_358@example.com,0
+TXN-0259,06-10-2023,Meera Krishnan,,117976.75,android-phone,user_258@example.com,1
+TXN-0745,"May 05, 2024",Aarav Sharma,35,58159.25,  MacBook  ,user_744@example.com,0
+TXN-0628,04/12/2023,Aditya Nair,31,₹114822.17,MacBook Pro,user_627@example.com,Pending
+TXN-0633,02-09-2024,Ananya Iyer,40,121953.05,iPhone,user_632@example.com,1
+TXN-0283,2023-11-25,Ananya Iyer,61,7194.46,  MacBook  ,user_282@example.com,1
+TXN-0377,02-12-2024,Dr. Aditya Nair PhD,28,101230.36,Android Phone,none@specified,True
+TXN-0385,2023-03-12,Dr. Meera Krishnan PhD,23,54444.09,  MacBook  , user_384@yahoo.com ,1
+txn_0225,06-11-2023,priya  balan,46,9802.57,Android Phone,user_224@example.com,yes
+ TXN-0270 ,2023-12-30,N/A,60,59943.93,,user_269@example.com,active
+TXN-0895,,Aditya Nair,41,28147.58,macbook Air,none@specified,Pending
+TXN-0473,"Jan 23, 2023",Diya Pillai,41,36766.41,android-phone,user_472@gmail..com,no
+TXN-0348,11-12-2023,Aditya Nair,,136830.16,windows_pc,user_347@example.com,yes
+TXN-0506,2023.12.23,Meera Krishnan,61,,Android Phone,user_505@example.com,FALSE
+TXN-0640,"Jun 19, 2023",Diya Pillai,240,₹63946.68,iPhone,user_639@example.com,True
+TXN-0099,08-02-2023,Rahul Subramanian,26,72094.49,  MacBook  ,user_98@example.com,no
+TXN-0798,NULL,Diya Pillai,45,139709.70,android-phone,user_797@example.com,
+TXN-0986,2023.10.11,Diya Pillai,51,107467.16,Windows PC,user_985@example.com,no
+TXN-0960,03-14-2023,Priya Balan,23,72157.31,IPHONE,test_email,yes
+TXN-0620,"May 24, 2023",PRIYA BALAN,240,112603.12,android-phone,user_619@example.com,
+ TXN-0909 ,02-14-2023,aarav  sharma,,120316.43,Windows PC,user_908@example.com,FALSE
+ TXN-0852 ,"Jan 01, 2023",N/A,40,,Windows PC, user_851@yahoo.com ,
+TXN-0646,2023.12.14,Vijay Kumar,59,17223.80,MacBook Pro,user_645@example.com,yes
+TXN-0900,26/01/2023,N/A,33,,Windows PC,user_899@example.com,yes
+TXN-0557,Urgent / Pending,Priya Balan,27,2641.05,Android Phone,user_556@example.com,Pending
+TXN-0948,2023.03.31,Ananya Iyer,37,145353.51,MacBook Pro,user_947@example.com,FALSE
+TXN-0578,,Priya Balan,55,₹9749.50,Android Phone,user_577@example.com,yes
+TXN-0796,2023.12.31,Aditya Nair,26,92353.93,Android Phone,user_795@example.com,FALSE
+TXN-0086,,Rahul Subramanian,53,₹11724.21,macbook Air,user_85@example.com,active
+TXN-0243,,Siddharth Rao,35 years,₹83305.96,iPhone,user_242@example.com,yes
+TXN-0699,2023.02.27,Meera Krishnan,52,27454.01,Windows PC,user_698@example.com,active
+TXN-0928,Urgent / Pending,Aarav Sharma,240,20320.06,windows_pc,user_927@example.com,0
+TXN-0160,2023.02.21,Ananya Iyer,64,79812.59,  MacBook  ,user_159@example.com,0
+TXN-0525,Urgent / Pending,Diya Pillai,49,70771.85,Android Phone,user_524@example.com,1
+TXN-0036,09-29-2023,Rahul Subramanian,50,7972.64,Android Phone,user_35@example.com,1
+TXN-0541,"Dec 12, 2023",Arjun Das,27,"$45,762.10",windows_pc,user_540@example.com,no
+TXN-0171,"Feb 06, 2024",Dr. Aarav Sharma PhD,43,20716.83,windows_pc,user_170#domain.com,
+TXN-0655,08-20-2023,Rahul Subramanian,31,56104.53,windows_pc,user_654@example.com,Pending
+TXN-0945,06-22-2023,Aarav Sharma,29,50827.71,iPhone,user_944@example.com,yes
+TXN-0911,2024.02.13,Rahul Subramanian,?,,  MacBook  ,user_910@example.com,0
+TXN-0901,"Aug 10, 2023",Aarav Sharma,62,"$83,941.97",Windows PC,user_900@example.com,no
+ TXN-0590 ,07-04-2023,Meera Krishnan,35,"$22,433.00",iPhone,user_589@example.com,active
+TXN-0734,2024.02.12,Aarav Sharma,240,40086.38,windows_pc,user_733@example.com,active
+TXN-0096,,Rahul Subramanian,62,20735.89,Android Phone,user_95@example.com,0
+TXN-0564,17/01/2023,Siddharth Rao,,unpaid,IPHONE,test_email,0
+TXN-0241,07/08/2023,Vijay Kumar,47,19950.08,Android Phone,user_240#domain.com,yes
+TXN-0743,,ARJUN DAS,240,38827.61,MacBook Pro,user_742@example.com,Pending
+TXN-0864,08/03/2023,Ananya Iyer,26,20678.46,macbook Air,user_863@example.com,0
+TXN-0575,2024-03-05,Vijay Kumar,49,,  MacBook  ,test_email,active
+TXN-0691,"Sep 11, 2023",Ananya Iyer,53,"$130,636.24",Android Phone,user_690@example.com,FALSE
+txn_0461,2024-02-30,Siddharth Rao,22,64002.99,macbook Air,user_460@example.com,active
+TXN-0554,"Oct 10, 2023",Aditya Nair,39,,iPhone,user_553@example.com,FALSE
+TXN-0858,2024.04.04,vijay  kumar,43,82734.13,MacBook Pro,user_857@example.com,
+TXN-0974,,Meera Krishnan,32,47735.60,  MacBook  ,user_973#domain.com,1
+TXN-0207,"Oct 20, 2023",Ananya Iyer,48,63063.87,Android Phone,user_206@example.com,Pending
+TXN-0393,"Apr 23, 2024",Siddharth Rao,47,85882.63,windows_pc,user_392@example.com,FALSE
+TXN-0795,2023.07.23,Meera Krishnan,49,91486.53,iPhone,user_794@example.com,1
+TXN-0871,NULL,Priya Balan,42,110615.58,macbook Air,user_870@gmail..com,Pending
+TXN-0398,"Mar 31, 2023",Aarav Sharma,44,₹39832.49,IPHONE,user_397@example.com,
+TXN-0767,,Aditya Nair,61,52112.53,macbook Air,user_766@example.com,active
+TXN-0902,"Jul 15, 2023",Ananya Iyer,33,122054.90,iPhone,test_email,  
+TXN-0218,2024-02-30,Ananya Iyer,29,5629.21,android-phone,user_217@example.com,FALSE
+TXN-0005,"Feb 26, 2024",Aditya Nair,50,138559.16,  MacBook  ,user_4@example.com,Pending
+TXN-0769,05/01/2024,MEERA KRISHNAN,35 years,16200.85,windows_pc,user_768@example.com,no
+TXN-0643,2024.01.18,Aarav Sharma,36,132484.22,  MacBook  ,user_642@example.com,no
+TXN-0952,31/05/2023,Meera Krishnan,38,74055.50,,user_951@example.com,
+TXN-0613,"Jun 18, 2023",Arjun Das,32,38812.05,macbook Air,user_612@gmail..com,yes
+TXN-0739,02-08-2024,Arjun Das,43,137632.21,Android Phone,user_738@example.com,1
+TXN-0547,"May 17, 2023",siddharth  rao,47,34967.02,IPHONE,user_546@example.com,active
+TXN-0726,"Jul 12, 2023",N/A,?,137067.24,windows_pc,user_725@example.com,yes
+txn_0972,18/12/2023,ananya  iyer,38,46612.24,macbook Air,user_971@example.com,  
+txn_0684,09-08-2023,Siddharth Rao,36,"$127,223.98",android-phone,user_683@example.com,active
+TXN-0099,08-02-2023,Rahul Subramanian,26,72094.49,  MacBook  ,user_98@example.com,no
+TXN-0805,,Ananya Iyer,32,46040.98,  MacBook  ,user_804@example.com,active
+TXN-0728,2024-01-29,Rahul Subramanian,57,103647.38,iPhone, user_727@yahoo.com ,yes
+TXN-0574,,Siddharth Rao,39,73905.92,macbook Air,user_573@example.com,  
+txn_0407,02-27-2023,Rahul Subramanian,46,65563.45,windows_pc,user_406@example.com,yes
+TXN-0503,2024-04-10,Ananya Iyer,35 years,₹119587.16,  MacBook  ,user_502@example.com,Pending
+TXN-0048,NULL,Rahul Subramanian,22,43299.67,android-phone,user_47@example.com,1
+TXN-0033,03/02/2023,meera  krishnan,33,136344.15,windows_pc,user_32@example.com,Pending
+,12-04-2023,Arjun Das,46,57511.54,windows_pc,user_779@gmail..com,no
+TXN-0840,"Feb 05, 2023",Priya Balan,41,141502.05 USD,iPhone,user_839@example.com,
+TXN-0201,2023-03-04,ANANYA IYER,30,136754.73,Android Phone,user_200@example.com,no
+txn_0135,02-20-2024,ananya  iyer,45,54876.76,MacBook Pro,none@specified,no
+txn_0028,,Siddharth Rao,46,104322.06,android-phone,user_27@gmail..com,1
+TXN-0934,,DIYA PILLAI,27,11699.50,macbook Air,user_933@example.com,0
+txn_0231,"Mar 31, 2024",Vijay Kumar,50,2376.35,Android Phone,user_230@example.com,  
+TXN-0490,"Mar 15, 2023",meera  krishnan,,46595.12,macbook Air,user_489@example.com,yes
+TXN-0773,NULL,diya  pillai,56,2281.08,IPHONE,user_772@example.com,no
+TXN-0379,07-22-2023,Meera Krishnan,35,54465.62,Windows PC,user_378@example.com,active
+TXN-0289,03-24-2023,Meera Krishnan,43,33278.91,,user_288@example.com,active
+TXN-0419,08-17-2023,Arjun Das,23,94348.20,iPhone,user_418@example.com,1
+TXN-0675,13/11/2023,Siddharth Rao,39,₹56929.43,,user_674@example.com,Pending
+TXN-0392,15/05/2024,Aarav Sharma,53,60137.93,macbook Air,user_391@example.com,  
+TXN-0593,2023.10.13,Diya Pillai,65,132030.88,macbook Air,user_592@example.com,yes
+TXN-0499,2024-03-23,Arjun Das,42,37589.36,macbook Air,user_498@gmail..com,no
+TXN-0139,03-23-2023,Dr. Rahul Subramanian PhD,31,3564.22 USD,MacBook Pro,user_138@example.com,
+TXN-0063,,Aarav Sharma,57,19600.19,  MacBook  ,none@specified,no
+TXN-0472,2024-03-22,Priya Balan,27,35465.16,iPhone,user_471@example.com,Pending
+TXN-0648,2023-09-05,Meera Krishnan,27,,Android Phone,user_647@example.com,no
+TXN-0129,2024-05-15,Priya Balan,42,80715.38 USD,android-phone,user_128@example.com,  
+txn_0253,2024.05.01,Meera Krishnan,33,110844.71,  MacBook  ,none@specified,
+TXN-0521,04-28-2024,Arjun Das,27,21188.78,MacBook Pro,user_520@example.com,FALSE
+TXN-0839,2023-09-22,Priya Balan,64,69737.96,windows_pc,user_838@example.com,no
+TXN-0366,2024-01-12,Aditya Nair,39,147473.67,IPHONE,user_365@example.com,yes
+TXN-0065,,Diya Pillai,45,,Windows PC,user_64@example.com,no
+TXN-0813,01-05-2024,Aditya Nair,44,unpaid,  MacBook  ,user_812@example.com,1
+TXN-0015,13/02/2024,Aarav Sharma,240,18835.08,  MacBook  ,user_14@example.com,active
+TXN-0157,"Jan 28, 2024",Arjun Das,42,89146.85,,user_156@example.com,FALSE
+TXN-0041,"Apr 27, 2023",Dr. Rahul Subramanian PhD,22,76157.76,  MacBook  ,user_40@example.com,  
+TXN-0493,2024-02-30,ananya  iyer,29,149657.00,windows_pc,user_492@example.com,Pending
+TXN-0380,16/02/2024,Rahul Subramanian,28,unpaid,MacBook Pro,user_379@example.com,True
+TXN-0188,2023-08-01,Rahul Subramanian,63,34545.82 USD,IPHONE,user_187@example.com,active
+TXN-0764,03/06/2023,Meera Krishnan,39,94114.10,IPHONE,user_763@example.com,active
+TXN-0217,01-12-2024,aarav  sharma,58,119437.68,Windows PC,user_216@example.com,yes
+TXN-0922,NULL,DIYA PILLAI,,81285.80,,user_921@example.com,Pending
+TXN-0792,,Siddharth Rao,65,3675.08,windows_pc,user_791@example.com,Pending
+TXN-0053,2024-01-05,Vijay Kumar,?,23708.62,Windows PC,user_52@example.com,Pending
+TXN-0879,17/06/2023,Diya Pillai,49,97934.73,iPhone,user_878@example.com,no
+TXN-0338,07-21-2023,Ananya Iyer,43,61835.37,  MacBook  ,test_email,Pending
+TXN-0749,NULL,N/A,35 years,52445.98,iPhone,user_748@example.com,FALSE
+TXN-0720,2023-07-30,Siddharth Rao,31,56724.27,macbook Air,user_719@example.com,0
+TXN-0725,10-23-2023,N/A,-25,,  MacBook  ,user_724@example.com,0
+TXN-0296,2023.03.28,Siddharth Rao,60,114578.46,Android Phone,user_295@example.com,  
+TXN-0702,2024-01-23,Diya Pillai,,117455.90,IPHONE,user_701@example.com,  
+TXN-0252,11-27-2023,Dr. Aditya Nair PhD,56,19763.21,iPhone,user_251@example.com,Pending
+TXN-0727,,arjun  das,34,77029.97,Android Phone,user_726@example.com,FALSE
+TXN-0462,2024-03-03,Vijay Kumar,,,Windows PC,user_461@example.com,1
+TXN-0456,"Apr 14, 2024",Arjun Das,,47131.10 USD,windows_pc,user_455@example.com,no
+TXN-0271,05-29-2023,Priya Balan,,75425.75,  MacBook  ,user_270@example.com,active
+TXN-0816,2023-05-18,Aarav Sharma,31,134749.67,IPHONE,user_815@example.com,FALSE
+TXN-0863,"Feb 01, 2023",Vijay Kumar,41,,android-phone,user_862@example.com,no
+ TXN-0270 ,2023-12-30,N/A,60,59943.93,,user_269@example.com,active
+TXN-0202,2023.11.24,Rahul Subramanian,47,unpaid,Windows PC,user_201@example.com,0
+TXN-0162,,Diya Pillai,?,₹134060.18,Windows PC,user_161@example.com,no
+TXN-0556,,AARAV SHARMA,35,20298.27,Windows PC,user_555@example.com,True
+TXN-0730,03-25-2024,N/A,57,110666.97,android-phone,user_729#domain.com,no
+TXN-0402,01-05-2023,Siddharth Rao,35 years,104316.44,macbook Air,user_401@example.com,FALSE
+TXN-0703,2023.08.14,Arjun Das,59,₹145916.23,IPHONE,user_702@example.com,yes
+TXN-0477,2023.04.30,Aarav Sharma,28,55187.51,IPHONE,user_476@example.com,Pending
+TXN-0822,,Siddharth Rao,26,57299.45,iPhone,test_email,Pending
+TXN-0772,NULL,Aditya Nair,32,15610.52,  MacBook  ,user_771@example.com,FALSE
+TXN-0106,2023-09-26,Rahul Subramanian,43,unpaid,Android Phone,user_105@example.com,0
+TXN-0566,28/10/2023,Aarav Sharma,26,91646.38,iPhone,none@specified,True
+TXN-0390,2023-08-30,Rahul Subramanian,47,106396.99,,user_389@example.com,
+ TXN-0002 ,10-06-2023,Rahul Subramanian,24,28265.53,MacBook Pro,user_1@example.com,0
+TXN-0995,2023-08-31,Meera Krishnan,63,77636.49,Android Phone,user_994@gmail..com,no
+TXN-0593,2023.10.13,Diya Pillai,65,132030.88,macbook Air,user_592@example.com,yes
+TXN-0562,2023-01-24,Dr. Siddharth Rao PhD,-25,4658.58,android-phone,user_561@example.com,1
+TXN-0932,"Apr 07, 2023",Arjun Das,53,₹39022.27,macbook Air,user_931@example.com,yes
+TXN-0081,NULL,Siddharth Rao,42,49547.76,Android Phone,user_80@example.com,
+TXN-0206,2023.01.01,Dr. Ananya Iyer PhD,51,127471.03 USD,IPHONE,user_205@example.com,1
+TXN-0035,"Jun 16, 2023",Meera Krishnan,41,90217.13,windows_pc,user_34@example.com,
+TXN-0943,03-16-2024,Aarav Sharma,55,82797.50 USD,,user_942@example.com,  
+txn_0776,05-07-2023,Arjun Das,52,51350.39,,user_775@example.com,active
+txn_0509,10-01-2023,diya  pillai,62,97186.83,IPHONE, user_508@yahoo.com ,True
+ TXN-0428 ,24/04/2023,vijay  kumar,26,94252.08,Windows PC,user_427@example.com,yes
+TXN-0455,"Apr 01, 2024",Ananya Iyer,59,116593.87,Android Phone,user_454@example.com,0
+TXN-0881,"Jul 02, 2023",Meera Krishnan,26,61314.60,MacBook Pro,user_880@example.com,yes
+TXN-0367,23/09/2023,Ananya Iyer,64,69618.41,windows_pc,user_366@example.com,FALSE
+TXN-0092,2023.04.28,Priya Balan,29,113180.84,macbook Air,user_91@gmail..com,Pending
+TXN-0340,22/01/2024,Meera Krishnan,59,144565.05,Android Phone,test_email,0
+TXN-0898,02-19-2024,PRIYA BALAN,61,₹10649.02,Windows PC, user_897@yahoo.com ,Pending
+TXN-0565,2023-06-11,Diya Pillai,63,94920.27,windows_pc,user_564@example.com,True
+TXN-0346,2024-02-30,Siddharth Rao,22,147813.94,windows_pc,user_345@example.com,1
+TXN-0777,2023.05.08,Aarav Sharma,59,56373.14,,user_776@example.com,FALSE
+TXN-0242,"Jun 29, 2023",Aarav Sharma,40,43448.82,Android Phone,user_241@example.com,0
+TXN-0014,16/03/2023,Aditya Nair,56,68712.00,windows_pc,none@specified,0
+TXN-0316,2023-03-14,siddharth  rao,31,133283.24,windows_pc,user_315@example.com,FALSE
+txn_0601,"Mar 28, 2023",Vijay Kumar,48,69325.10,Windows PC,user_600@example.com,0
+TXN-0388,2023-04-30,Siddharth Rao,64,74678.98,MacBook Pro,user_387@example.com,FALSE
+TXN-0274,2024-02-30,Aarav Sharma,56,123783.29,android-phone,user_273@example.com,True
+TXN-0167,"Mar 26, 2023",Ananya Iyer,31,,MacBook Pro,user_166@example.com,Pending
+TXN-0841,02-01-2024,Vijay Kumar,32,75575.35,macbook Air,user_840@example.com,Pending
+TXN-0021,2024-01-17,priya  balan,32,101965.83,IPHONE,user_20@example.com,1
+TXN-0647,03-19-2023,Rahul Subramanian,39,84833.87,Windows PC,user_646@gmail..com,True
+TXN-0819,,Rahul Subramanian,36,₹104137.69,iPhone,user_818@example.com,
+TXN-0485,"Dec 10, 2023",Aditya Nair,24,27767.38,windows_pc,user_484@example.com,yes
+TXN-0552,2024-03-15,Ananya Iyer,43,29151.97,MacBook Pro,user_551@example.com,yes
+ TXN-0505 ,"Jan 22, 2024",Vijay Kumar,31,133012.20,IPHONE,user_504@example.com,  
+TXN-0832,2023.01.19,Ananya Iyer,38,1450.26,  MacBook  ,user_831@example.com,active
+TXN-0244,2023.06.30,Priya Balan,25,113848.61,IPHONE,none@specified,no
+,"Dec 31, 2023",Aarav Sharma,35,147049.62,macbook Air, user_566@yahoo.com ,0
+TXN-0876,16/02/2023,SIDDHARTH RAO,54,138986.66,iPhone,user_875@example.com,active
+TXN-0563,2023.05.24,Aarav Sharma,61,138415.09,windows_pc,user_562@example.com,
+TXN-0821,09-19-2023,Aditya Nair,,90581.30,,user_820#domain.com,no
+TXN-0687,,Priya Balan!!!,62,38153.08,IPHONE, user_686@yahoo.com ,yes
+TXN-0958,2024.04.16,Rahul Subramanian,31,145238.46,IPHONE,user_957@example.com,0
+TXN-0190,02-11-2023,Diya Pillai,36,8145.92,Android Phone,user_189@example.com,1
+TXN-0783,06/02/2024,N/A,42,105108.42,Android Phone,user_782@example.com,1
+TXN-0976,2024-05-02,Diya Pillai,63,141796.23,  MacBook  ,user_975@example.com,Pending
+TXN-0700,NULL,Siddharth Rao,29,43660.87,Windows PC,user_699@example.com,  
+TXN-0476,2024-02-30,Arjun Das,-25,,Android Phone,user_475@example.com,Pending
+TXN-0682,05/08/2023,Arjun Das,59,146662.06,macbook Air,user_681@example.com,FALSE
+TXN-0511,2023-08-27,Ananya Iyer,30,49087.62,IPHONE,user_510@example.com,active
+TXN-0059,21/10/2023,Aarav Sharma,,139168.34,iPhone,user_58@example.com,
+TXN-0475,2024-02-02,Vijay Kumar,34,111324.24,, user_474@yahoo.com ,True
+TXN-0561,2024.04.06,Arjun Das,25,81195.71,macbook Air,user_560@example.com,0
+TXN-0857,2023-02-17,Ananya Iyer,,127459.59,IPHONE,user_856@example.com,FALSE
+TXN-0748,03-24-2024,Aarav Sharma,29,₹95863.80,windows_pc,user_747@example.com,True
+txn_0253,2024.05.01,Meera Krishnan,33,110844.71,  MacBook  ,none@specified,
+TXN-0022,02-03-2024,PRIYA BALAN,29,61988.68,Android Phone,user_21#domain.com,FALSE
+TXN-0460,2023.07.21,Aarav Sharma,,125474.11,,user_459@example.com,yes
+,"Jul 08, 2023",Meera Krishnan,45,129654.89,MacBook Pro,user_276@example.com,yes
+TXN-0956,2024.01.30,N/A,49,unpaid,iPhone,user_955@example.com,0
+TXN-0386,28/10/2023,MEERA KRISHNAN,31,₹92480.47,Windows PC,user_385@example.com,
+TXN-0806,NULL,Aarav Sharma!!!,35 years,82853.73,android-phone,user_805@example.com,1
+TXN-0344,2023.08.31,Vijay Kumar,65,₹95807.07,windows_pc,user_343@example.com,  
+TXN-0770,"Mar 19, 2023",Aarav Sharma,22,₹113067.77,Android Phone,user_769@example.com,no
+TXN-0131,2023-10-11,ANANYA IYER,53,unpaid,IPHONE,user_130@example.com,no
+TXN-0872,"Jun 10, 2023",Aditya Nair,46,"$109,222.61",,user_871@example.com,Pending
+TXN-0088,05-29-2023,Priya Balan,36,27688.42,macbook Air,user_87@example.com,yes
+TXN-0331,"Jan 27, 2024",Aditya Nair,50,57076.67,  MacBook  ,user_330@example.com,yes
+TXN-0467,2024-04-24,Rahul Subramanian,?,144504.07,MacBook Pro,user_466@example.com,yes
+TXN-0122,Urgent / Pending,Rahul Subramanian,?,45490.30,Android Phone,user_121@example.com,  
+TXN-0861,16/09/2023,PRIYA BALAN,25,79743.49,  MacBook  ,user_860@gmail..com,FALSE
